@@ -1,0 +1,2437 @@
+salesdate,kind,sales,Adjusted
+1-1-2020,"Retail and food services sales, total",480301,N
+2-1-2020,"Retail and food services sales, total",478467,N
+3-1-2020,"Retail and food services sales, total",478267,N
+4-1-2020,"Retail and food services sales, total",407227,N
+5-1-2020,"Retail and food services sales, total",504607,N
+6-1-2020,"Retail and food services sales, total",532678,N
+7-1-2020,"Retail and food services sales, total",549416,N
+8-1-2020,"Retail and food services sales, total",545307,N
+9-1-2020,"Retail and food services sales, total",530987,N
+10-1-2020,"Retail and food services sales, total",553114,N
+11-1-2020,"Retail and food services sales, total",543273,N
+12-1-2020,"Retail and food services sales, total",611429,N
+1-1-2020,Retail sales and food services excl motor vehicle and parts,386934,N
+2-1-2020,Retail sales and food services excl motor vehicle and parts,380639,N
+3-1-2020,Retail sales and food services excl motor vehicle and parts,395880,N
+4-1-2020,Retail sales and food services excl motor vehicle and parts,337693,N
+5-1-2020,Retail sales and food services excl motor vehicle and parts,397245,N
+6-1-2020,Retail sales and food services excl motor vehicle and parts,418450,N
+7-1-2020,Retail sales and food services excl motor vehicle and parts,433183,N
+8-1-2020,Retail sales and food services excl motor vehicle and parts,429379,N
+9-1-2020,Retail sales and food services excl motor vehicle and parts,417929,N
+10-1-2020,Retail sales and food services excl motor vehicle and parts,438435,N
+11-1-2020,Retail sales and food services excl motor vehicle and parts,440053,N
+12-1-2020,Retail sales and food services excl motor vehicle and parts,494937,N
+1-1-2020,Retail sales and food services excl gasoline stations,440605,N
+2-1-2020,Retail sales and food services excl gasoline stations,441504,N
+3-1-2020,Retail sales and food services excl gasoline stations,444006,N
+4-1-2020,Retail sales and food services excl gasoline stations,380417,N
+5-1-2020,Retail sales and food services excl gasoline stations,472562,N
+6-1-2020,Retail sales and food services excl gasoline stations,496364,N
+7-1-2020,Retail sales and food services excl gasoline stations,510540,N
+8-1-2020,Retail sales and food services excl gasoline stations,506577,N
+9-1-2020,Retail sales and food services excl gasoline stations,493756,N
+10-1-2020,Retail sales and food services excl gasoline stations,514953,N
+11-1-2020,Retail sales and food services excl gasoline stations,508879,N
+12-1-2020,Retail sales and food services excl gasoline stations,574794,N
+1-1-2020,Retail sales and food services excl motor vehicle and parts and gasoline stations,347238,N
+2-1-2020,Retail sales and food services excl motor vehicle and parts and gasoline stations,343676,N
+3-1-2020,Retail sales and food services excl motor vehicle and parts and gasoline stations,361619,N
+4-1-2020,Retail sales and food services excl motor vehicle and parts and gasoline stations,310883,N
+5-1-2020,Retail sales and food services excl motor vehicle and parts and gasoline stations,365200,N
+6-1-2020,Retail sales and food services excl motor vehicle and parts and gasoline stations,382136,N
+7-1-2020,Retail sales and food services excl motor vehicle and parts and gasoline stations,394307,N
+8-1-2020,Retail sales and food services excl motor vehicle and parts and gasoline stations,390649,N
+9-1-2020,Retail sales and food services excl motor vehicle and parts and gasoline stations,380698,N
+10-1-2020,Retail sales and food services excl motor vehicle and parts and gasoline stations,400274,N
+11-1-2020,Retail sales and food services excl motor vehicle and parts and gasoline stations,405659,N
+12-1-2020,Retail sales and food services excl motor vehicle and parts and gasoline stations,458302,N
+1-1-2020,"Retail sales, total",418734,N
+2-1-2020,"Retail sales, total",415511,N
+3-1-2020,"Retail sales, total",430527,N
+4-1-2020,"Retail sales, total",377210,N
+5-1-2020,"Retail sales, total",462286,N
+6-1-2020,"Retail sales, total",481205,N
+7-1-2020,"Retail sales, total",494905,N
+8-1-2020,"Retail sales, total",488949,N
+9-1-2020,"Retail sales, total",476247,N
+10-1-2020,"Retail sales, total",495722,N
+11-1-2020,"Retail sales, total",492362,N
+12-1-2020,"Retail sales, total",559932,N
+1-1-2020,"Retail sales, total (excl. motor vehicle and parts dealers)",325367,N
+2-1-2020,"Retail sales, total (excl. motor vehicle and parts dealers)",317683,N
+3-1-2020,"Retail sales, total (excl. motor vehicle and parts dealers)",348140,N
+4-1-2020,"Retail sales, total (excl. motor vehicle and parts dealers)",307676,N
+5-1-2020,"Retail sales, total (excl. motor vehicle and parts dealers)",354924,N
+6-1-2020,"Retail sales, total (excl. motor vehicle and parts dealers)",366977,N
+7-1-2020,"Retail sales, total (excl. motor vehicle and parts dealers)",378672,N
+8-1-2020,"Retail sales, total (excl. motor vehicle and parts dealers)",373021,N
+9-1-2020,"Retail sales, total (excl. motor vehicle and parts dealers)",363189,N
+10-1-2020,"Retail sales, total (excl. motor vehicle and parts dealers)",381043,N
+11-1-2020,"Retail sales, total (excl. motor vehicle and parts dealers)",389142,N
+12-1-2020,"Retail sales, total (excl. motor vehicle and parts dealers)",443440,N
+1-1-2020,GAFO(1),94549,N
+2-1-2020,GAFO(1),97552,N
+3-1-2020,GAFO(1),95501,N
+4-1-2020,GAFO(1),68637,N
+5-1-2020,GAFO(1),91042,N
+6-1-2020,GAFO(1),102574,N
+7-1-2020,GAFO(1),106664,N
+8-1-2020,GAFO(1),109556,N
+9-1-2020,GAFO(1),104834,N
+10-1-2020,GAFO(1),111528,N
+11-1-2020,GAFO(1),117962,N
+12-1-2020,GAFO(1),144871,N
+1-1-2019,"Retail and food services sales, total",456538,N
+2-1-2019,"Retail and food services sales, total",442274,N
+3-1-2019,"Retail and food services sales, total",513845,N
+4-1-2019,"Retail and food services sales, total",506920,N
+5-1-2019,"Retail and food services sales, total",544203,N
+6-1-2019,"Retail and food services sales, total",515269,N
+7-1-2019,"Retail and food services sales, total",528710,N
+8-1-2019,"Retail and food services sales, total",541951,N
+9-1-2019,"Retail and food services sales, total",493076,N
+10-1-2019,"Retail and food services sales, total",522195,N
+11-1-2019,"Retail and food services sales, total",532130,N
+12-1-2019,"Retail and food services sales, total",587471,N
+1-1-2019,Retail sales and food services excl motor vehicle and parts,368649,N
+2-1-2019,Retail sales and food services excl motor vehicle and parts,352651,N
+3-1-2019,Retail sales and food services excl motor vehicle and parts,403490,N
+4-1-2019,Retail sales and food services excl motor vehicle and parts,403550,N
+5-1-2019,Retail sales and food services excl motor vehicle and parts,432418,N
+6-1-2019,Retail sales and food services excl motor vehicle and parts,410619,N
+7-1-2019,Retail sales and food services excl motor vehicle and parts,419527,N
+8-1-2019,Retail sales and food services excl motor vehicle and parts,427360,N
+9-1-2019,Retail sales and food services excl motor vehicle and parts,393464,N
+10-1-2019,Retail sales and food services excl motor vehicle and parts,418339,N
+11-1-2019,Retail sales and food services excl motor vehicle and parts,430888,N
+12-1-2019,Retail sales and food services excl motor vehicle and parts,483860,N
+1-1-2019,Retail sales and food services excl gasoline stations,420099,N
+2-1-2019,Retail sales and food services excl gasoline stations,406760,N
+3-1-2019,Retail sales and food services excl gasoline stations,471780,N
+4-1-2019,Retail sales and food services excl gasoline stations,462650,N
+5-1-2019,Retail sales and food services excl gasoline stations,496816,N
+6-1-2019,Retail sales and food services excl gasoline stations,470393,N
+7-1-2019,Retail sales and food services excl gasoline stations,482318,N
+8-1-2019,Retail sales and food services excl gasoline stations,496002,N
+9-1-2019,Retail sales and food services excl gasoline stations,450325,N
+10-1-2019,Retail sales and food services excl gasoline stations,477847,N
+11-1-2019,Retail sales and food services excl gasoline stations,490706,N
+12-1-2019,Retail sales and food services excl gasoline stations,546509,N
+1-1-2019,Retail sales and food services excl motor vehicle and parts and gasoline stations,332210,N
+2-1-2019,Retail sales and food services excl motor vehicle and parts and gasoline stations,317137,N
+3-1-2019,Retail sales and food services excl motor vehicle and parts and gasoline stations,361425,N
+4-1-2019,Retail sales and food services excl motor vehicle and parts and gasoline stations,359280,N
+5-1-2019,Retail sales and food services excl motor vehicle and parts and gasoline stations,385031,N
+6-1-2019,Retail sales and food services excl motor vehicle and parts and gasoline stations,365743,N
+7-1-2019,Retail sales and food services excl motor vehicle and parts and gasoline stations,373135,N
+8-1-2019,Retail sales and food services excl motor vehicle and parts and gasoline stations,381411,N
+9-1-2019,Retail sales and food services excl motor vehicle and parts and gasoline stations,350713,N
+10-1-2019,Retail sales and food services excl motor vehicle and parts and gasoline stations,373991,N
+11-1-2019,Retail sales and food services excl motor vehicle and parts and gasoline stations,389464,N
+12-1-2019,Retail sales and food services excl motor vehicle and parts and gasoline stations,442898,N
+1-1-2019,"Retail sales, total",399461,N
+2-1-2019,"Retail sales, total",384967,N
+3-1-2019,"Retail sales, total",447155,N
+4-1-2019,"Retail sales, total",442921,N
+5-1-2019,"Retail sales, total",475897,N
+6-1-2019,"Retail sales, total",448595,N
+7-1-2019,"Retail sales, total",462097,N
+8-1-2019,"Retail sales, total",473482,N
+9-1-2019,"Retail sales, total",429556,N
+10-1-2019,"Retail sales, total",456436,N
+11-1-2019,"Retail sales, total",469003,N
+12-1-2019,"Retail sales, total",521467,N
+1-1-2019,"Retail sales, total (excl. motor vehicle and parts dealers)",311572,N
+2-1-2019,"Retail sales, total (excl. motor vehicle and parts dealers)",295344,N
+3-1-2019,"Retail sales, total (excl. motor vehicle and parts dealers)",336800,N
+4-1-2019,"Retail sales, total (excl. motor vehicle and parts dealers)",339551,N
+5-1-2019,"Retail sales, total (excl. motor vehicle and parts dealers)",364112,N
+6-1-2019,"Retail sales, total (excl. motor vehicle and parts dealers)",343945,N
+7-1-2019,"Retail sales, total (excl. motor vehicle and parts dealers)",352914,N
+8-1-2019,"Retail sales, total (excl. motor vehicle and parts dealers)",358891,N
+9-1-2019,"Retail sales, total (excl. motor vehicle and parts dealers)",329944,N
+10-1-2019,"Retail sales, total (excl. motor vehicle and parts dealers)",352580,N
+11-1-2019,"Retail sales, total (excl. motor vehicle and parts dealers)",367761,N
+12-1-2019,"Retail sales, total (excl. motor vehicle and parts dealers)",417856,N
+1-1-2019,GAFO(1),91540,N
+2-1-2019,GAFO(1),90967,N
+3-1-2019,GAFO(1),106564,N
+4-1-2019,GAFO(1),102978,N
+5-1-2019,GAFO(1),110415,N
+6-1-2019,GAFO(1),105867,N
+7-1-2019,GAFO(1),107090,N
+8-1-2019,GAFO(1),114131,N
+9-1-2019,GAFO(1),100240,N
+10-1-2019,GAFO(1),106921,N
+11-1-2019,GAFO(1),121457,N
+12-1-2019,GAFO(1),147773,N
+1-1-2018,"Retail and food services sales, total",444286,N
+2-1-2018,"Retail and food services sales, total",435373,N
+3-1-2018,"Retail and food services sales, total",508383,N
+4-1-2018,"Retail and food services sales, total",480373,N
+5-1-2018,"Retail and food services sales, total",527991,N
+6-1-2018,"Retail and food services sales, total",507106,N
+7-1-2018,"Retail and food services sales, total",505209,N
+8-1-2018,"Retail and food services sales, total",520544,N
+9-1-2018,"Retail and food services sales, total",477137,N
+10-1-2018,"Retail and food services sales, total",503602,N
+11-1-2018,"Retail and food services sales, total",518457,N
+12-1-2018,"Retail and food services sales, total",556614,N
+1-1-2018,Retail sales and food services excl motor vehicle and parts,356043,N
+2-1-2018,Retail sales and food services excl motor vehicle and parts,345645,N
+3-1-2018,Retail sales and food services excl motor vehicle and parts,398623,N
+4-1-2018,Retail sales and food services excl motor vehicle and parts,380907,N
+5-1-2018,Retail sales and food services excl motor vehicle and parts,418752,N
+6-1-2018,Retail sales and food services excl motor vehicle and parts,402227,N
+7-1-2018,Retail sales and food services excl motor vehicle and parts,401379,N
+8-1-2018,Retail sales and food services excl motor vehicle and parts,412163,N
+9-1-2018,Retail sales and food services excl motor vehicle and parts,381171,N
+10-1-2018,Retail sales and food services excl motor vehicle and parts,404569,N
+11-1-2018,Retail sales and food services excl motor vehicle and parts,423227,N
+12-1-2018,Retail sales and food services excl motor vehicle and parts,455566,N
+1-1-2018,Retail sales and food services excl gasoline stations,405332,N
+2-1-2018,Retail sales and food services excl gasoline stations,398494,N
+3-1-2018,Retail sales and food services excl gasoline stations,466197,N
+4-1-2018,Retail sales and food services excl gasoline stations,437800,N
+5-1-2018,Retail sales and food services excl gasoline stations,480549,N
+6-1-2018,Retail sales and food services excl gasoline stations,460356,N
+7-1-2018,Retail sales and food services excl gasoline stations,458120,N
+8-1-2018,Retail sales and food services excl gasoline stations,472671,N
+9-1-2018,Retail sales and food services excl gasoline stations,432695,N
+10-1-2018,Retail sales and food services excl gasoline stations,456531,N
+11-1-2018,Retail sales and food services excl gasoline stations,476440,N
+12-1-2018,Retail sales and food services excl gasoline stations,518437,N
+1-1-2018,Retail sales and food services excl motor vehicle and parts and gasoline stations,317089,N
+2-1-2018,Retail sales and food services excl motor vehicle and parts and gasoline stations,308766,N
+3-1-2018,Retail sales and food services excl motor vehicle and parts and gasoline stations,356437,N
+4-1-2018,Retail sales and food services excl motor vehicle and parts and gasoline stations,338334,N
+5-1-2018,Retail sales and food services excl motor vehicle and parts and gasoline stations,371310,N
+6-1-2018,Retail sales and food services excl motor vehicle and parts and gasoline stations,355477,N
+7-1-2018,Retail sales and food services excl motor vehicle and parts and gasoline stations,354290,N
+8-1-2018,Retail sales and food services excl motor vehicle and parts and gasoline stations,364290,N
+9-1-2018,Retail sales and food services excl motor vehicle and parts and gasoline stations,336729,N
+10-1-2018,Retail sales and food services excl motor vehicle and parts and gasoline stations,357498,N
+11-1-2018,Retail sales and food services excl motor vehicle and parts and gasoline stations,381210,N
+12-1-2018,Retail sales and food services excl motor vehicle and parts and gasoline stations,417389,N
+1-1-2018,"Retail sales, total",389808,N
+2-1-2018,"Retail sales, total",380671,N
+3-1-2018,"Retail sales, total",444994,N
+4-1-2018,"Retail sales, total",420245,N
+5-1-2018,"Retail sales, total",464050,N
+6-1-2018,"Retail sales, total",443577,N
+7-1-2018,"Retail sales, total",441767,N
+8-1-2018,"Retail sales, total",456030,N
+9-1-2018,"Retail sales, total",417172,N
+10-1-2018,"Retail sales, total",441878,N
+11-1-2018,"Retail sales, total",459319,N
+12-1-2018,"Retail sales, total",493526,N
+1-1-2018,"Retail sales, total (excl. motor vehicle and parts dealers)",301565,N
+2-1-2018,"Retail sales, total (excl. motor vehicle and parts dealers)",290943,N
+3-1-2018,"Retail sales, total (excl. motor vehicle and parts dealers)",335234,N
+4-1-2018,"Retail sales, total (excl. motor vehicle and parts dealers)",320779,N
+5-1-2018,"Retail sales, total (excl. motor vehicle and parts dealers)",354811,N
+6-1-2018,"Retail sales, total (excl. motor vehicle and parts dealers)",338698,N
+7-1-2018,"Retail sales, total (excl. motor vehicle and parts dealers)",337937,N
+8-1-2018,"Retail sales, total (excl. motor vehicle and parts dealers)",347649,N
+9-1-2018,"Retail sales, total (excl. motor vehicle and parts dealers)",321206,N
+10-1-2018,"Retail sales, total (excl. motor vehicle and parts dealers)",342845,N
+11-1-2018,"Retail sales, total (excl. motor vehicle and parts dealers)",364089,N
+12-1-2018,"Retail sales, total (excl. motor vehicle and parts dealers)",392478,N
+1-1-2018,GAFO(1),90650,N
+2-1-2018,GAFO(1),92611,N
+3-1-2018,GAFO(1),108401,N
+4-1-2018,GAFO(1),98990,N
+5-1-2018,GAFO(1),110609,N
+6-1-2018,GAFO(1),106035,N
+7-1-2018,GAFO(1),105372,N
+8-1-2018,GAFO(1),111811,N
+9-1-2018,GAFO(1),100372,N
+10-1-2018,GAFO(1),105419,N
+11-1-2018,GAFO(1),121812,N
+12-1-2018,GAFO(1),146442,N
+1-1-2017,"Retail and food services sales, total",421943,N
+2-1-2017,"Retail and food services sales, total",418315,N
+3-1-2017,"Retail and food services sales, total",483082,N
+4-1-2017,"Retail and food services sales, total",465788,N
+5-1-2017,"Retail and food services sales, total",494621,N
+6-1-2017,"Retail and food services sales, total",481729,N
+7-1-2017,"Retail and food services sales, total",475374,N
+8-1-2017,"Retail and food services sales, total",490324,N
+9-1-2017,"Retail and food services sales, total",469710,N
+10-1-2017,"Retail and food services sales, total",476014,N
+11-1-2017,"Retail and food services sales, total",497748,N
+12-1-2017,"Retail and food services sales, total",558215,N
+1-1-2017,Retail sales and food services excl motor vehicle and parts,336756,N
+2-1-2017,Retail sales and food services excl motor vehicle and parts,328901,N
+3-1-2017,Retail sales and food services excl motor vehicle and parts,376796,N
+4-1-2017,Retail sales and food services excl motor vehicle and parts,368476,N
+5-1-2017,Retail sales and food services excl motor vehicle and parts,388989,N
+6-1-2017,Retail sales and food services excl motor vehicle and parts,379136,N
+7-1-2017,Retail sales and food services excl motor vehicle and parts,373146,N
+8-1-2017,Retail sales and food services excl motor vehicle and parts,385526,N
+9-1-2017,Retail sales and food services excl motor vehicle and parts,369739,N
+10-1-2017,Retail sales and food services excl motor vehicle and parts,378618,N
+11-1-2017,Retail sales and food services excl motor vehicle and parts,402994,N
+12-1-2017,Retail sales and food services excl motor vehicle and parts,458090,N
+1-1-2017,Retail sales and food services excl gasoline stations,386019,N
+2-1-2017,Retail sales and food services excl gasoline stations,384105,N
+3-1-2017,Retail sales and food services excl gasoline stations,443979,N
+4-1-2017,Retail sales and food services excl gasoline stations,426328,N
+5-1-2017,Retail sales and food services excl gasoline stations,453329,N
+6-1-2017,Retail sales and food services excl gasoline stations,441236,N
+7-1-2017,Retail sales and food services excl gasoline stations,435163,N
+8-1-2017,Retail sales and food services excl gasoline stations,448690,N
+9-1-2017,Retail sales and food services excl gasoline stations,428033,N
+10-1-2017,Retail sales and food services excl gasoline stations,434050,N
+11-1-2017,Retail sales and food services excl gasoline stations,457507,N
+12-1-2017,Retail sales and food services excl gasoline stations,518272,N
+1-1-2017,Retail sales and food services excl motor vehicle and parts and gasoline stations,300832,N
+2-1-2017,Retail sales and food services excl motor vehicle and parts and gasoline stations,294691,N
+3-1-2017,Retail sales and food services excl motor vehicle and parts and gasoline stations,337693,N
+4-1-2017,Retail sales and food services excl motor vehicle and parts and gasoline stations,329016,N
+5-1-2017,Retail sales and food services excl motor vehicle and parts and gasoline stations,347697,N
+6-1-2017,Retail sales and food services excl motor vehicle and parts and gasoline stations,338643,N
+7-1-2017,Retail sales and food services excl motor vehicle and parts and gasoline stations,332935,N
+8-1-2017,Retail sales and food services excl motor vehicle and parts and gasoline stations,343892,N
+9-1-2017,Retail sales and food services excl motor vehicle and parts and gasoline stations,328062,N
+10-1-2017,Retail sales and food services excl motor vehicle and parts and gasoline stations,336654,N
+11-1-2017,Retail sales and food services excl motor vehicle and parts and gasoline stations,362753,N
+12-1-2017,Retail sales and food services excl motor vehicle and parts and gasoline stations,418147,N
+1-1-2017,"Retail sales, total",368960,N
+2-1-2017,"Retail sales, total",365480,N
+3-1-2017,"Retail sales, total",422891,N
+4-1-2017,"Retail sales, total",407165,N
+5-1-2017,"Retail sales, total",434450,N
+6-1-2017,"Retail sales, total",423034,N
+7-1-2017,"Retail sales, total",416900,N
+8-1-2017,"Retail sales, total",431822,N
+9-1-2017,"Retail sales, total",412578,N
+10-1-2017,"Retail sales, total",417830,N
+11-1-2017,"Retail sales, total",442077,N
+12-1-2017,"Retail sales, total",497027,N
+1-1-2017,"Retail sales, total (excl. motor vehicle and parts dealers)",283773,N
+2-1-2017,"Retail sales, total (excl. motor vehicle and parts dealers)",276066,N
+3-1-2017,"Retail sales, total (excl. motor vehicle and parts dealers)",316605,N
+4-1-2017,"Retail sales, total (excl. motor vehicle and parts dealers)",309853,N
+5-1-2017,"Retail sales, total (excl. motor vehicle and parts dealers)",328818,N
+6-1-2017,"Retail sales, total (excl. motor vehicle and parts dealers)",320441,N
+7-1-2017,"Retail sales, total (excl. motor vehicle and parts dealers)",314672,N
+8-1-2017,"Retail sales, total (excl. motor vehicle and parts dealers)",327024,N
+9-1-2017,"Retail sales, total (excl. motor vehicle and parts dealers)",312607,N
+10-1-2017,"Retail sales, total (excl. motor vehicle and parts dealers)",320434,N
+11-1-2017,"Retail sales, total (excl. motor vehicle and parts dealers)",347323,N
+12-1-2017,"Retail sales, total (excl. motor vehicle and parts dealers)",396902,N
+1-1-2017,GAFO(1),89665,N
+2-1-2017,GAFO(1),90295,N
+3-1-2017,GAFO(1),103318,N
+4-1-2017,GAFO(1),100738,N
+5-1-2017,GAFO(1),104278,N
+6-1-2017,GAFO(1),103200,N
+7-1-2017,GAFO(1),102606,N
+8-1-2017,GAFO(1),108670,N
+9-1-2017,GAFO(1),100576,N
+10-1-2017,GAFO(1),102945,N
+11-1-2017,GAFO(1),118959,N
+12-1-2017,GAFO(1),149727,N
+1-1-2016,"Retail and food services sales, total",401911,N
+2-1-2016,"Retail and food services sales, total",415093,N
+3-1-2016,"Retail and food services sales, total",460910,N
+4-1-2016,"Retail and food services sales, total",451121,N
+5-1-2016,"Retail and food services sales, total",470116,N
+6-1-2016,"Retail and food services sales, total",464721,N
+7-1-2016,"Retail and food services sales, total",462004,N
+8-1-2016,"Retail and food services sales, total",471690,N
+9-1-2016,"Retail and food services sales, total",448516,N
+10-1-2016,"Retail and food services sales, total",453155,N
+11-1-2016,"Retail and food services sales, total",467232,N
+12-1-2016,"Retail and food services sales, total",539667,N
+1-1-2016,Retail sales and food services excl motor vehicle and parts,321013,N
+2-1-2016,Retail sales and food services excl motor vehicle and parts,324880,N
+3-1-2016,Retail sales and food services excl motor vehicle and parts,359702,N
+4-1-2016,Retail sales and food services excl motor vehicle and parts,353383,N
+5-1-2016,Retail sales and food services excl motor vehicle and parts,371156,N
+6-1-2016,Retail sales and food services excl motor vehicle and parts,366135,N
+7-1-2016,Retail sales and food services excl motor vehicle and parts,362111,N
+8-1-2016,Retail sales and food services excl motor vehicle and parts,367377,N
+9-1-2016,Retail sales and food services excl motor vehicle and parts,352800,N
+10-1-2016,Retail sales and food services excl motor vehicle and parts,360140,N
+11-1-2016,Retail sales and food services excl motor vehicle and parts,376891,N
+12-1-2016,Retail sales and food services excl motor vehicle and parts,438631,N
+1-1-2016,Retail sales and food services excl gasoline stations,370863,N
+2-1-2016,Retail sales and food services excl gasoline stations,386106,N
+3-1-2016,Retail sales and food services excl gasoline stations,427324,N
+4-1-2016,Retail sales and food services excl gasoline stations,415844,N
+5-1-2016,Retail sales and food services excl gasoline stations,431308,N
+6-1-2016,Retail sales and food services excl gasoline stations,424659,N
+7-1-2016,Retail sales and food services excl gasoline stations,422252,N
+8-1-2016,Retail sales and food services excl gasoline stations,432935,N
+9-1-2016,Retail sales and food services excl gasoline stations,410592,N
+10-1-2016,Retail sales and food services excl gasoline stations,414177,N
+11-1-2016,Retail sales and food services excl gasoline stations,431420,N
+12-1-2016,Retail sales and food services excl gasoline stations,502513,N
+1-1-2016,Retail sales and food services excl motor vehicle and parts and gasoline stations,289965,N
+2-1-2016,Retail sales and food services excl motor vehicle and parts and gasoline stations,295893,N
+3-1-2016,Retail sales and food services excl motor vehicle and parts and gasoline stations,326116,N
+4-1-2016,Retail sales and food services excl motor vehicle and parts and gasoline stations,318106,N
+5-1-2016,Retail sales and food services excl motor vehicle and parts and gasoline stations,332348,N
+6-1-2016,Retail sales and food services excl motor vehicle and parts and gasoline stations,326073,N
+7-1-2016,Retail sales and food services excl motor vehicle and parts and gasoline stations,322359,N
+8-1-2016,Retail sales and food services excl motor vehicle and parts and gasoline stations,328622,N
+9-1-2016,Retail sales and food services excl motor vehicle and parts and gasoline stations,314876,N
+10-1-2016,Retail sales and food services excl motor vehicle and parts and gasoline stations,321162,N
+11-1-2016,Retail sales and food services excl motor vehicle and parts and gasoline stations,341079,N
+12-1-2016,Retail sales and food services excl motor vehicle and parts and gasoline stations,401477,N
+1-1-2016,"Retail sales, total",351890,N
+2-1-2016,"Retail sales, total",363622,N
+3-1-2016,"Retail sales, total",405050,N
+4-1-2016,"Retail sales, total",394766,N
+5-1-2016,"Retail sales, total",413047,N
+6-1-2016,"Retail sales, total",410045,N
+7-1-2016,"Retail sales, total",405935,N
+8-1-2016,"Retail sales, total",416449,N
+9-1-2016,"Retail sales, total",394147,N
+10-1-2016,"Retail sales, total",397337,N
+11-1-2016,"Retail sales, total",413872,N
+12-1-2016,"Retail sales, total",482053,N
+1-1-2016,"Retail sales, total (excl. motor vehicle and parts dealers)",270992,N
+2-1-2016,"Retail sales, total (excl. motor vehicle and parts dealers)",273409,N
+3-1-2016,"Retail sales, total (excl. motor vehicle and parts dealers)",303842,N
+4-1-2016,"Retail sales, total (excl. motor vehicle and parts dealers)",297028,N
+5-1-2016,"Retail sales, total (excl. motor vehicle and parts dealers)",314087,N
+6-1-2016,"Retail sales, total (excl. motor vehicle and parts dealers)",311459,N
+7-1-2016,"Retail sales, total (excl. motor vehicle and parts dealers)",306042,N
+8-1-2016,"Retail sales, total (excl. motor vehicle and parts dealers)",312136,N
+9-1-2016,"Retail sales, total (excl. motor vehicle and parts dealers)",298431,N
+10-1-2016,"Retail sales, total (excl. motor vehicle and parts dealers)",304322,N
+11-1-2016,"Retail sales, total (excl. motor vehicle and parts dealers)",323531,N
+12-1-2016,"Retail sales, total (excl. motor vehicle and parts dealers)",381017,N
+1-1-2016,GAFO(1),89674,N
+2-1-2016,GAFO(1),94702,N
+3-1-2016,GAFO(1),104199,N
+4-1-2016,GAFO(1),98659,N
+5-1-2016,GAFO(1),103979,N
+6-1-2016,GAFO(1),102162,N
+7-1-2016,GAFO(1),102899,N
+8-1-2016,GAFO(1),107380,N
+9-1-2016,GAFO(1),98485,N
+10-1-2016,GAFO(1),101847,N
+11-1-2016,GAFO(1),114768,N
+12-1-2016,GAFO(1),148877,N
+1-1-2015,"Retail and food services sales, total",398555,N
+2-1-2015,"Retail and food services sales, total",388766,N
+3-1-2015,"Retail and food services sales, total",446581,N
+4-1-2015,"Retail and food services sales, total",439993,N
+5-1-2015,"Retail and food services sales, total",465244,N
+6-1-2015,"Retail and food services sales, total",450172,N
+7-1-2015,"Retail and food services sales, total",459960,N
+8-1-2015,"Retail and food services sales, total",458313,N
+9-1-2015,"Retail and food services sales, total",432898,N
+10-1-2015,"Retail and food services sales, total",446746,N
+11-1-2015,"Retail and food services sales, total",446334,N
+12-1-2015,"Retail and food services sales, total",518656,N
+1-1-2015,Retail sales and food services excl motor vehicle and parts,319532,N
+2-1-2015,Retail sales and food services excl motor vehicle and parts,308588,N
+3-1-2015,Retail sales and food services excl motor vehicle and parts,349376,N
+4-1-2015,Retail sales and food services excl motor vehicle and parts,345534,N
+5-1-2015,Retail sales and food services excl motor vehicle and parts,366995,N
+6-1-2015,Retail sales and food services excl motor vehicle and parts,354741,N
+7-1-2015,Retail sales and food services excl motor vehicle and parts,361299,N
+8-1-2015,Retail sales and food services excl motor vehicle and parts,359485,N
+9-1-2015,Retail sales and food services excl motor vehicle and parts,341246,N
+10-1-2015,Retail sales and food services excl motor vehicle and parts,355452,N
+11-1-2015,Retail sales and food services excl motor vehicle and parts,361409,N
+12-1-2015,Retail sales and food services excl motor vehicle and parts,424623,N
+1-1-2015,Retail sales and food services excl gasoline stations,365413,N
+2-1-2015,Retail sales and food services excl gasoline stations,356478,N
+3-1-2015,Retail sales and food services excl gasoline stations,408972,N
+4-1-2015,Retail sales and food services excl gasoline stations,402048,N
+5-1-2015,Retail sales and food services excl gasoline stations,422991,N
+6-1-2015,Retail sales and food services excl gasoline stations,407293,N
+7-1-2015,Retail sales and food services excl gasoline stations,415960,N
+8-1-2015,Retail sales and food services excl gasoline stations,416260,N
+9-1-2015,Retail sales and food services excl gasoline stations,395206,N
+10-1-2015,Retail sales and food services excl gasoline stations,408608,N
+11-1-2015,Retail sales and food services excl gasoline stations,412260,N
+12-1-2015,Retail sales and food services excl gasoline stations,484982,N
+1-1-2015,Retail sales and food services excl motor vehicle and parts and gasoline stations,286390,N
+2-1-2015,Retail sales and food services excl motor vehicle and parts and gasoline stations,276300,N
+3-1-2015,Retail sales and food services excl motor vehicle and parts and gasoline stations,311767,N
+4-1-2015,Retail sales and food services excl motor vehicle and parts and gasoline stations,307589,N
+5-1-2015,Retail sales and food services excl motor vehicle and parts and gasoline stations,324742,N
+6-1-2015,Retail sales and food services excl motor vehicle and parts and gasoline stations,311862,N
+7-1-2015,Retail sales and food services excl motor vehicle and parts and gasoline stations,317299,N
+8-1-2015,Retail sales and food services excl motor vehicle and parts and gasoline stations,317432,N
+9-1-2015,Retail sales and food services excl motor vehicle and parts and gasoline stations,303554,N
+10-1-2015,Retail sales and food services excl motor vehicle and parts and gasoline stations,317314,N
+11-1-2015,Retail sales and food services excl motor vehicle and parts and gasoline stations,327335,N
+12-1-2015,Retail sales and food services excl motor vehicle and parts and gasoline stations,390949,N
+1-1-2015,"Retail sales, total",350466,N
+2-1-2015,"Retail sales, total",342030,N
+3-1-2015,"Retail sales, total",393318,N
+4-1-2015,"Retail sales, total",387581,N
+5-1-2015,"Retail sales, total",409703,N
+6-1-2015,"Retail sales, total",398034,N
+7-1-2015,"Retail sales, total",406760,N
+8-1-2015,"Retail sales, total",405111,N
+9-1-2015,"Retail sales, total",382135,N
+10-1-2015,"Retail sales, total",392721,N
+11-1-2015,"Retail sales, total",396150,N
+12-1-2015,"Retail sales, total",464110,N
+1-1-2015,"Retail sales, total (excl. motor vehicle and parts dealers)",271443,N
+2-1-2015,"Retail sales, total (excl. motor vehicle and parts dealers)",261852,N
+3-1-2015,"Retail sales, total (excl. motor vehicle and parts dealers)",296113,N
+4-1-2015,"Retail sales, total (excl. motor vehicle and parts dealers)",293122,N
+5-1-2015,"Retail sales, total (excl. motor vehicle and parts dealers)",311454,N
+6-1-2015,"Retail sales, total (excl. motor vehicle and parts dealers)",302603,N
+7-1-2015,"Retail sales, total (excl. motor vehicle and parts dealers)",308099,N
+8-1-2015,"Retail sales, total (excl. motor vehicle and parts dealers)",306283,N
+9-1-2015,"Retail sales, total (excl. motor vehicle and parts dealers)",290483,N
+10-1-2015,"Retail sales, total (excl. motor vehicle and parts dealers)",301427,N
+11-1-2015,"Retail sales, total (excl. motor vehicle and parts dealers)",311225,N
+12-1-2015,"Retail sales, total (excl. motor vehicle and parts dealers)",370077,N
+1-1-2015,GAFO(1),90414,N
+2-1-2015,GAFO(1),90578,N
+3-1-2015,GAFO(1),101430,N
+4-1-2015,GAFO(1),97465,N
+5-1-2015,GAFO(1),105988,N
+6-1-2015,GAFO(1),100182,N
+7-1-2015,GAFO(1),102602,N
+8-1-2015,GAFO(1),107975,N
+9-1-2015,GAFO(1),98028,N
+10-1-2015,GAFO(1),103560,N
+11-1-2015,GAFO(1),114934,N
+12-1-2015,GAFO(1),149506,N
+1-1-2014,"Retail and food services sales, total",383488,N
+2-1-2014,"Retail and food services sales, total",380454,N
+3-1-2014,"Retail and food services sales, total",433052,N
+4-1-2014,"Retail and food services sales, total",431598,N
+5-1-2014,"Retail and food services sales, total",459441,N
+6-1-2014,"Retail and food services sales, total",433458,N
+7-1-2014,"Retail and food services sales, total",443498,N
+8-1-2014,"Retail and food services sales, total",451663,N
+9-1-2014,"Retail and food services sales, total",421628,N
+10-1-2014,"Retail and food services sales, total",438697,N
+11-1-2014,"Retail and food services sales, total",439344,N
+12-1-2014,"Retail and food services sales, total",502208,N
+1-1-2014,Retail sales and food services excl motor vehicle and parts,312728,N
+2-1-2014,Retail sales and food services excl motor vehicle and parts,305069,N
+3-1-2014,Retail sales and food services excl motor vehicle and parts,342056,N
+4-1-2014,Retail sales and food services excl motor vehicle and parts,343146,N
+5-1-2014,Retail sales and food services excl motor vehicle and parts,365685,N
+6-1-2014,Retail sales and food services excl motor vehicle and parts,346247,N
+7-1-2014,Retail sales and food services excl motor vehicle and parts,351692,N
+8-1-2014,Retail sales and food services excl motor vehicle and parts,358476,N
+9-1-2014,Retail sales and food services excl motor vehicle and parts,337729,N
+10-1-2014,Retail sales and food services excl motor vehicle and parts,353803,N
+11-1-2014,Retail sales and food services excl motor vehicle and parts,359831,N
+12-1-2014,Retail sales and food services excl motor vehicle and parts,415070,N
+1-1-2014,Retail sales and food services excl gasoline stations,340831,N
+2-1-2014,Retail sales and food services excl gasoline stations,339775,N
+3-1-2014,Retail sales and food services excl gasoline stations,386653,N
+4-1-2014,Retail sales and food services excl gasoline stations,384227,N
+5-1-2014,Retail sales and food services excl gasoline stations,408771,N
+6-1-2014,Retail sales and food services excl gasoline stations,384744,N
+7-1-2014,Retail sales and food services excl gasoline stations,393605,N
+8-1-2014,Retail sales and food services excl gasoline stations,402212,N
+9-1-2014,Retail sales and food services excl gasoline stations,375370,N
+10-1-2014,Retail sales and food services excl gasoline stations,392449,N
+11-1-2014,Retail sales and food services excl gasoline stations,398365,N
+12-1-2014,Retail sales and food services excl gasoline stations,464463,N
+1-1-2014,Retail sales and food services excl motor vehicle and parts and gasoline stations,270071,N
+2-1-2014,Retail sales and food services excl motor vehicle and parts and gasoline stations,264390,N
+3-1-2014,Retail sales and food services excl motor vehicle and parts and gasoline stations,295657,N
+4-1-2014,Retail sales and food services excl motor vehicle and parts and gasoline stations,295775,N
+5-1-2014,Retail sales and food services excl motor vehicle and parts and gasoline stations,315015,N
+6-1-2014,Retail sales and food services excl motor vehicle and parts and gasoline stations,297533,N
+7-1-2014,Retail sales and food services excl motor vehicle and parts and gasoline stations,301799,N
+8-1-2014,Retail sales and food services excl motor vehicle and parts and gasoline stations,309025,N
+9-1-2014,Retail sales and food services excl motor vehicle and parts and gasoline stations,291471,N
+10-1-2014,Retail sales and food services excl motor vehicle and parts and gasoline stations,307555,N
+11-1-2014,Retail sales and food services excl motor vehicle and parts and gasoline stations,318852,N
+12-1-2014,Retail sales and food services excl motor vehicle and parts and gasoline stations,377325,N
+1-1-2014,"Retail sales, total",340558,N
+2-1-2014,"Retail sales, total",337558,N
+3-1-2014,"Retail sales, total",383642,N
+4-1-2014,"Retail sales, total",383895,N
+5-1-2014,"Retail sales, total",408383,N
+6-1-2014,"Retail sales, total",385557,N
+7-1-2014,"Retail sales, total",394790,N
+8-1-2014,"Retail sales, total",401546,N
+9-1-2014,"Retail sales, total",374507,N
+10-1-2014,"Retail sales, total",388493,N
+11-1-2014,"Retail sales, total",391652,N
+12-1-2014,"Retail sales, total",451346,N
+1-1-2014,"Retail sales, total (excl. motor vehicle and parts dealers)",269798,N
+2-1-2014,"Retail sales, total (excl. motor vehicle and parts dealers)",262173,N
+3-1-2014,"Retail sales, total (excl. motor vehicle and parts dealers)",292646,N
+4-1-2014,"Retail sales, total (excl. motor vehicle and parts dealers)",295443,N
+5-1-2014,"Retail sales, total (excl. motor vehicle and parts dealers)",314627,N
+6-1-2014,"Retail sales, total (excl. motor vehicle and parts dealers)",298346,N
+7-1-2014,"Retail sales, total (excl. motor vehicle and parts dealers)",302984,N
+8-1-2014,"Retail sales, total (excl. motor vehicle and parts dealers)",308359,N
+9-1-2014,"Retail sales, total (excl. motor vehicle and parts dealers)",290608,N
+10-1-2014,"Retail sales, total (excl. motor vehicle and parts dealers)",303599,N
+11-1-2014,"Retail sales, total (excl. motor vehicle and parts dealers)",312139,N
+12-1-2014,"Retail sales, total (excl. motor vehicle and parts dealers)",364208,N
+1-1-2014,GAFO(1),86320,N
+2-1-2014,GAFO(1),89550,N
+3-1-2014,GAFO(1),99364,N
+4-1-2014,GAFO(1),97084,N
+5-1-2014,GAFO(1),103916,N
+6-1-2014,GAFO(1),97579,N
+7-1-2014,GAFO(1),99412,N
+8-1-2014,GAFO(1),107717,N
+9-1-2014,GAFO(1),95736,N
+10-1-2014,GAFO(1),101495,N
+11-1-2014,GAFO(1),115706,N
+12-1-2014,GAFO(1),147582,N
+1-1-2013,"Retail and food services sales, total",375468,N
+2-1-2013,"Retail and food services sales, total",373974,N
+3-1-2013,"Retail and food services sales, total",421748,N
+4-1-2013,"Retail and food services sales, total",408551,N
+5-1-2013,"Retail and food services sales, total",437214,N
+6-1-2013,"Retail and food services sales, total",414816,N
+7-1-2013,"Retail and food services sales, total",422532,N
+8-1-2013,"Retail and food services sales, total",435215,N
+9-1-2013,"Retail and food services sales, total",396415,N
+10-1-2013,"Retail and food services sales, total",415942,N
+11-1-2013,"Retail and food services sales, total",424095,N
+12-1-2013,"Retail and food services sales, total",477362,N
+1-1-2013,Retail sales and food services excl motor vehicle and parts,306084,N
+2-1-2013,Retail sales and food services excl motor vehicle and parts,300849,N
+3-1-2013,Retail sales and food services excl motor vehicle and parts,337976,N
+4-1-2013,Retail sales and food services excl motor vehicle and parts,326887,N
+5-1-2013,Retail sales and food services excl motor vehicle and parts,350308,N
+6-1-2013,Retail sales and food services excl motor vehicle and parts,332014,N
+7-1-2013,Retail sales and food services excl motor vehicle and parts,336255,N
+8-1-2013,Retail sales and food services excl motor vehicle and parts,346249,N
+9-1-2013,Retail sales and food services excl motor vehicle and parts,320614,N
+10-1-2013,Retail sales and food services excl motor vehicle and parts,336805,N
+11-1-2013,Retail sales and food services excl motor vehicle and parts,348340,N
+12-1-2013,Retail sales and food services excl motor vehicle and parts,398778,N
+1-1-2013,Retail sales and food services excl gasoline stations,333706,N
+2-1-2013,Retail sales and food services excl gasoline stations,331745,N
+3-1-2013,Retail sales and food services excl gasoline stations,374018,N
+4-1-2013,Retail sales and food services excl gasoline stations,361736,N
+5-1-2013,Retail sales and food services excl gasoline stations,388019,N
+6-1-2013,Retail sales and food services excl gasoline stations,366330,N
+7-1-2013,Retail sales and food services excl gasoline stations,372707,N
+8-1-2013,Retail sales and food services excl gasoline stations,385652,N
+9-1-2013,Retail sales and food services excl gasoline stations,350343,N
+10-1-2013,Retail sales and food services excl gasoline stations,369425,N
+11-1-2013,Retail sales and food services excl gasoline stations,381698,N
+12-1-2013,Retail sales and food services excl gasoline stations,434190,N
+1-1-2013,Retail sales and food services excl motor vehicle and parts and gasoline stations,264322,N
+2-1-2013,Retail sales and food services excl motor vehicle and parts and gasoline stations,258620,N
+3-1-2013,Retail sales and food services excl motor vehicle and parts and gasoline stations,290246,N
+4-1-2013,Retail sales and food services excl motor vehicle and parts and gasoline stations,280072,N
+5-1-2013,Retail sales and food services excl motor vehicle and parts and gasoline stations,301113,N
+6-1-2013,Retail sales and food services excl motor vehicle and parts and gasoline stations,283528,N
+7-1-2013,Retail sales and food services excl motor vehicle and parts and gasoline stations,286430,N
+8-1-2013,Retail sales and food services excl motor vehicle and parts and gasoline stations,296686,N
+9-1-2013,Retail sales and food services excl motor vehicle and parts and gasoline stations,274542,N
+10-1-2013,Retail sales and food services excl motor vehicle and parts and gasoline stations,290288,N
+11-1-2013,Retail sales and food services excl motor vehicle and parts and gasoline stations,305943,N
+12-1-2013,Retail sales and food services excl motor vehicle and parts and gasoline stations,355606,N
+1-1-2013,"Retail sales, total",333663,N
+2-1-2013,"Retail sales, total",332471,N
+3-1-2013,"Retail sales, total",374171,N
+4-1-2013,"Retail sales, total",362978,N
+5-1-2013,"Retail sales, total",389709,N
+6-1-2013,"Retail sales, total",369355,N
+7-1-2013,"Retail sales, total",377031,N
+8-1-2013,"Retail sales, total",388299,N
+9-1-2013,"Retail sales, total",352749,N
+10-1-2013,"Retail sales, total",369868,N
+11-1-2013,"Retail sales, total",378800,N
+12-1-2013,"Retail sales, total",430754,N
+1-1-2013,"Retail sales, total (excl. motor vehicle and parts dealers)",264279,N
+2-1-2013,"Retail sales, total (excl. motor vehicle and parts dealers)",259346,N
+3-1-2013,"Retail sales, total (excl. motor vehicle and parts dealers)",290399,N
+4-1-2013,"Retail sales, total (excl. motor vehicle and parts dealers)",281314,N
+5-1-2013,"Retail sales, total (excl. motor vehicle and parts dealers)",302803,N
+6-1-2013,"Retail sales, total (excl. motor vehicle and parts dealers)",286553,N
+7-1-2013,"Retail sales, total (excl. motor vehicle and parts dealers)",290754,N
+8-1-2013,"Retail sales, total (excl. motor vehicle and parts dealers)",299333,N
+9-1-2013,"Retail sales, total (excl. motor vehicle and parts dealers)",276948,N
+10-1-2013,"Retail sales, total (excl. motor vehicle and parts dealers)",290731,N
+11-1-2013,"Retail sales, total (excl. motor vehicle and parts dealers)",303045,N
+12-1-2013,"Retail sales, total (excl. motor vehicle and parts dealers)",352170,N
+1-1-2013,GAFO(1),86297,N
+2-1-2013,GAFO(1),89304,N
+3-1-2013,GAFO(1),100628,N
+4-1-2013,GAFO(1),92422,N
+5-1-2013,GAFO(1),100605,N
+6-1-2013,GAFO(1),96807,N
+7-1-2013,GAFO(1),96603,N
+8-1-2013,GAFO(1),104854,N
+9-1-2013,GAFO(1),93006,N
+10-1-2013,GAFO(1),98325,N
+11-1-2013,GAFO(1),112537,N
+12-1-2013,GAFO(1),142384,N
+1-1-2012,"Retail and food services sales, total",355184,N
+2-1-2012,"Retail and food services sales, total",372401,N
+3-1-2012,"Retail and food services sales, total",414149,N
+4-1-2012,"Retail and food services sales, total",392949,N
+5-1-2012,"Retail and food services sales, total",418608,N
+6-1-2012,"Retail and food services sales, total",400975,N
+7-1-2012,"Retail and food services sales, total",396026,N
+8-1-2012,"Retail and food services sales, total",417922,N
+9-1-2012,"Retail and food services sales, total",385609,N
+10-1-2012,"Retail and food services sales, total",399400,N
+11-1-2012,"Retail and food services sales, total",411065,N
+12-1-2012,"Retail and food services sales, total",462102,N
+1-1-2012,Retail sales and food services excl motor vehicle and parts,292916,N
+2-1-2012,Retail sales and food services excl motor vehicle and parts,302072,N
+3-1-2012,Retail sales and food services excl motor vehicle and parts,332992,N
+4-1-2012,Retail sales and food services excl motor vehicle and parts,319458,N
+5-1-2012,Retail sales and food services excl motor vehicle and parts,338812,N
+6-1-2012,Retail sales and food services excl motor vehicle and parts,325021,N
+7-1-2012,Retail sales and food services excl motor vehicle and parts,320787,N
+8-1-2012,Retail sales and food services excl motor vehicle and parts,337194,N
+9-1-2012,Retail sales and food services excl motor vehicle and parts,314291,N
+10-1-2012,Retail sales and food services excl motor vehicle and parts,327099,N
+11-1-2012,Retail sales and food services excl motor vehicle and parts,341371,N
+12-1-2012,Retail sales and food services excl motor vehicle and parts,387883,N
+1-1-2012,Retail sales and food services excl gasoline stations,313778,N
+2-1-2012,Retail sales and food services excl gasoline stations,330183,N
+3-1-2012,Retail sales and food services excl gasoline stations,365752,N
+4-1-2012,Retail sales and food services excl gasoline stations,345285,N
+5-1-2012,Retail sales and food services excl gasoline stations,369410,N
+6-1-2012,Retail sales and food services excl gasoline stations,354492,N
+7-1-2012,Retail sales and food services excl gasoline stations,349368,N
+8-1-2012,Retail sales and food services excl gasoline stations,367727,N
+9-1-2012,Retail sales and food services excl gasoline stations,338408,N
+10-1-2012,Retail sales and food services excl gasoline stations,350417,N
+11-1-2012,Retail sales and food services excl gasoline stations,366631,N
+12-1-2012,Retail sales and food services excl gasoline stations,419520,N
+1-1-2012,Retail sales and food services excl motor vehicle and parts and gasoline stations,251510,N
+2-1-2012,Retail sales and food services excl motor vehicle and parts and gasoline stations,259854,N
+3-1-2012,Retail sales and food services excl motor vehicle and parts and gasoline stations,284595,N
+4-1-2012,Retail sales and food services excl motor vehicle and parts and gasoline stations,271794,N
+5-1-2012,Retail sales and food services excl motor vehicle and parts and gasoline stations,289614,N
+6-1-2012,Retail sales and food services excl motor vehicle and parts and gasoline stations,278538,N
+7-1-2012,Retail sales and food services excl motor vehicle and parts and gasoline stations,274129,N
+8-1-2012,Retail sales and food services excl motor vehicle and parts and gasoline stations,286999,N
+9-1-2012,Retail sales and food services excl motor vehicle and parts and gasoline stations,267090,N
+10-1-2012,Retail sales and food services excl motor vehicle and parts and gasoline stations,278116,N
+11-1-2012,Retail sales and food services excl motor vehicle and parts and gasoline stations,296937,N
+12-1-2012,Retail sales and food services excl motor vehicle and parts and gasoline stations,345301,N
+1-1-2012,"Retail sales, total",315540,N
+2-1-2012,"Retail sales, total",331470,N
+3-1-2012,"Retail sales, total",368502,N
+4-1-2012,"Retail sales, total",349194,N
+5-1-2012,"Retail sales, total",373129,N
+6-1-2012,"Retail sales, total",356083,N
+7-1-2012,"Retail sales, total",351520,N
+8-1-2012,"Retail sales, total",372986,N
+9-1-2012,"Retail sales, total",342582,N
+10-1-2012,"Retail sales, total",355823,N
+11-1-2012,"Retail sales, total",368593,N
+12-1-2012,"Retail sales, total",416807,N
+1-1-2012,"Retail sales, total (excl. motor vehicle and parts dealers)",253272,N
+2-1-2012,"Retail sales, total (excl. motor vehicle and parts dealers)",261141,N
+3-1-2012,"Retail sales, total (excl. motor vehicle and parts dealers)",287345,N
+4-1-2012,"Retail sales, total (excl. motor vehicle and parts dealers)",275703,N
+5-1-2012,"Retail sales, total (excl. motor vehicle and parts dealers)",293333,N
+6-1-2012,"Retail sales, total (excl. motor vehicle and parts dealers)",280129,N
+7-1-2012,"Retail sales, total (excl. motor vehicle and parts dealers)",276281,N
+8-1-2012,"Retail sales, total (excl. motor vehicle and parts dealers)",292258,N
+9-1-2012,"Retail sales, total (excl. motor vehicle and parts dealers)",271264,N
+10-1-2012,"Retail sales, total (excl. motor vehicle and parts dealers)",283522,N
+11-1-2012,"Retail sales, total (excl. motor vehicle and parts dealers)",298899,N
+12-1-2012,"Retail sales, total (excl. motor vehicle and parts dealers)",342588,N
+1-1-2012,GAFO(1),83395,N
+2-1-2012,GAFO(1),91209,N
+3-1-2012,GAFO(1),98747,N
+4-1-2012,GAFO(1),91719,N
+5-1-2012,GAFO(1),97833,N
+6-1-2012,GAFO(1),95541,N
+7-1-2012,GAFO(1),93547,N
+8-1-2012,GAFO(1),101703,N
+9-1-2012,GAFO(1),91915,N
+10-1-2012,GAFO(1),93919,N
+11-1-2012,GAFO(1),109571,N
+12-1-2012,GAFO(1),142744,N
+1-1-2011,"Retail and food services sales, total",335587,N
+2-1-2011,"Retail and food services sales, total",337314,N
+3-1-2011,"Retail and food services sales, total",387088,N
+4-1-2011,"Retail and food services sales, total",380775,N
+5-1-2011,"Retail and food services sales, total",391999,N
+6-1-2011,"Retail and food services sales, total",388700,N
+7-1-2011,"Retail and food services sales, total",384682,N
+8-1-2011,"Retail and food services sales, total",394609,N
+9-1-2011,"Retail and food services sales, total",375025,N
+10-1-2011,"Retail and food services sales, total",379482,N
+11-1-2011,"Retail and food services sales, total",391220,N
+12-1-2011,"Retail and food services sales, total",451821,N
+1-1-2011,Retail sales and food services excl motor vehicle and parts,277706,N
+2-1-2011,Retail sales and food services excl motor vehicle and parts,274739,N
+3-1-2011,Retail sales and food services excl motor vehicle and parts,311920,N
+4-1-2011,Retail sales and food services excl motor vehicle and parts,311233,N
+5-1-2011,Retail sales and food services excl motor vehicle and parts,322722,N
+6-1-2011,Retail sales and food services excl motor vehicle and parts,318499,N
+7-1-2011,Retail sales and food services excl motor vehicle and parts,315504,N
+8-1-2011,Retail sales and food services excl motor vehicle and parts,323314,N
+9-1-2011,Retail sales and food services excl motor vehicle and parts,308069,N
+10-1-2011,Retail sales and food services excl motor vehicle and parts,313569,N
+11-1-2011,Retail sales and food services excl motor vehicle and parts,327252,N
+12-1-2011,Retail sales and food services excl motor vehicle and parts,380837,N
+1-1-2011,Retail sales and food services excl gasoline stations,297569,N
+2-1-2011,Retail sales and food services excl gasoline stations,300645,N
+3-1-2011,Retail sales and food services excl gasoline stations,342739,N
+4-1-2011,Retail sales and food services excl gasoline stations,334922,N
+5-1-2011,Retail sales and food services excl gasoline stations,343754,N
+6-1-2011,Retail sales and food services excl gasoline stations,341186,N
+7-1-2011,Retail sales and food services excl gasoline stations,336482,N
+8-1-2011,Retail sales and food services excl gasoline stations,346289,N
+9-1-2011,Retail sales and food services excl gasoline stations,329582,N
+10-1-2011,Retail sales and food services excl gasoline stations,334367,N
+11-1-2011,Retail sales and food services excl gasoline stations,348244,N
+12-1-2011,Retail sales and food services excl gasoline stations,409066,N
+1-1-2011,Retail sales and food services excl motor vehicle and parts and gasoline stations,239688,N
+2-1-2011,Retail sales and food services excl motor vehicle and parts and gasoline stations,238070,N
+3-1-2011,Retail sales and food services excl motor vehicle and parts and gasoline stations,267571,N
+4-1-2011,Retail sales and food services excl motor vehicle and parts and gasoline stations,265380,N
+5-1-2011,Retail sales and food services excl motor vehicle and parts and gasoline stations,274477,N
+6-1-2011,Retail sales and food services excl motor vehicle and parts and gasoline stations,270985,N
+7-1-2011,Retail sales and food services excl motor vehicle and parts and gasoline stations,267304,N
+8-1-2011,Retail sales and food services excl motor vehicle and parts and gasoline stations,274994,N
+9-1-2011,Retail sales and food services excl motor vehicle and parts and gasoline stations,262626,N
+10-1-2011,Retail sales and food services excl motor vehicle and parts and gasoline stations,268454,N
+11-1-2011,Retail sales and food services excl motor vehicle and parts and gasoline stations,284276,N
+12-1-2011,Retail sales and food services excl motor vehicle and parts and gasoline stations,338082,N
+1-1-2011,"Retail sales, total",298626,N
+2-1-2011,"Retail sales, total",299920,N
+3-1-2011,"Retail sales, total",345052,N
+4-1-2011,"Retail sales, total",339014,N
+5-1-2011,"Retail sales, total",348979,N
+6-1-2011,"Retail sales, total",346620,N
+7-1-2011,"Retail sales, total",341381,N
+8-1-2011,"Retail sales, total",352224,N
+9-1-2011,"Retail sales, total",333642,N
+10-1-2011,"Retail sales, total",337067,N
+11-1-2011,"Retail sales, total",351517,N
+12-1-2011,"Retail sales, total",408910,N
+1-1-2011,"Retail sales, total (excl. motor vehicle and parts dealers)",240745,N
+2-1-2011,"Retail sales, total (excl. motor vehicle and parts dealers)",237345,N
+3-1-2011,"Retail sales, total (excl. motor vehicle and parts dealers)",269884,N
+4-1-2011,"Retail sales, total (excl. motor vehicle and parts dealers)",269472,N
+5-1-2011,"Retail sales, total (excl. motor vehicle and parts dealers)",279702,N
+6-1-2011,"Retail sales, total (excl. motor vehicle and parts dealers)",276419,N
+7-1-2011,"Retail sales, total (excl. motor vehicle and parts dealers)",272203,N
+8-1-2011,"Retail sales, total (excl. motor vehicle and parts dealers)",280929,N
+9-1-2011,"Retail sales, total (excl. motor vehicle and parts dealers)",266686,N
+10-1-2011,"Retail sales, total (excl. motor vehicle and parts dealers)",271154,N
+11-1-2011,"Retail sales, total (excl. motor vehicle and parts dealers)",287549,N
+12-1-2011,"Retail sales, total (excl. motor vehicle and parts dealers)",337926,N
+1-1-2011,GAFO(1),80468,N
+2-1-2011,GAFO(1),83815,N
+3-1-2011,GAFO(1),92506,N
+4-1-2011,GAFO(1),91906,N
+5-1-2011,GAFO(1),93667,N
+6-1-2011,GAFO(1),92488,N
+7-1-2011,GAFO(1),92485,N
+8-1-2011,GAFO(1),97416,N
+9-1-2011,GAFO(1),90746,N
+10-1-2011,GAFO(1),92528,N
+11-1-2011,GAFO(1),106010,N
+12-1-2011,GAFO(1),141631,N
+1-1-2010,"Retail and food services sales, total",314557,N
+2-1-2010,"Retail and food services sales, total",310925,N
+3-1-2010,"Retail and food services sales, total",360679,N
+4-1-2010,"Retail and food services sales, total",356333,N
+5-1-2010,"Retail and food services sales, total",365605,N
+6-1-2010,"Retail and food services sales, total",358604,N
+7-1-2010,"Retail and food services sales, total",361939,N
+8-1-2010,"Retail and food services sales, total",362627,N
+9-1-2010,"Retail and food services sales, total",345999,N
+10-1-2010,"Retail and food services sales, total",355209,N
+11-1-2010,"Retail and food services sales, total",365828,N
+12-1-2010,"Retail and food services sales, total",426663,N
+1-1-2010,Retail sales and food services excl motor vehicle and parts,264687,N
+2-1-2010,Retail sales and food services excl motor vehicle and parts,259103,N
+3-1-2010,Retail sales and food services excl motor vehicle and parts,293231,N
+4-1-2010,Retail sales and food services excl motor vehicle and parts,291965,N
+5-1-2010,Retail sales and food services excl motor vehicle and parts,300362,N
+6-1-2010,Retail sales and food services excl motor vehicle and parts,293904,N
+7-1-2010,Retail sales and food services excl motor vehicle and parts,294933,N
+8-1-2010,Retail sales and food services excl motor vehicle and parts,296553,N
+9-1-2010,Retail sales and food services excl motor vehicle and parts,284345,N
+10-1-2010,Retail sales and food services excl motor vehicle and parts,293823,N
+11-1-2010,Retail sales and food services excl motor vehicle and parts,306998,N
+12-1-2010,Retail sales and food services excl motor vehicle and parts,362151,N
+1-1-2010,Retail sales and food services excl gasoline stations,280412,N
+2-1-2010,Retail sales and food services excl gasoline stations,279037,N
+3-1-2010,Retail sales and food services excl gasoline stations,323445,N
+4-1-2010,Retail sales and food services excl gasoline stations,318036,N
+5-1-2010,Retail sales and food services excl gasoline stations,326437,N
+6-1-2010,Retail sales and food services excl gasoline stations,320396,N
+7-1-2010,Retail sales and food services excl gasoline stations,322885,N
+8-1-2010,Retail sales and food services excl gasoline stations,324086,N
+9-1-2010,Retail sales and food services excl gasoline stations,308829,N
+10-1-2010,Retail sales and food services excl gasoline stations,316729,N
+11-1-2010,Retail sales and food services excl gasoline stations,328755,N
+12-1-2010,Retail sales and food services excl gasoline stations,387572,N
+1-1-2010,Retail sales and food services excl motor vehicle and parts and gasoline stations,230542,N
+2-1-2010,Retail sales and food services excl motor vehicle and parts and gasoline stations,227215,N
+3-1-2010,Retail sales and food services excl motor vehicle and parts and gasoline stations,255997,N
+4-1-2010,Retail sales and food services excl motor vehicle and parts and gasoline stations,253668,N
+5-1-2010,Retail sales and food services excl motor vehicle and parts and gasoline stations,261194,N
+6-1-2010,Retail sales and food services excl motor vehicle and parts and gasoline stations,255696,N
+7-1-2010,Retail sales and food services excl motor vehicle and parts and gasoline stations,255879,N
+8-1-2010,Retail sales and food services excl motor vehicle and parts and gasoline stations,258012,N
+9-1-2010,Retail sales and food services excl motor vehicle and parts and gasoline stations,247175,N
+10-1-2010,Retail sales and food services excl motor vehicle and parts and gasoline stations,255343,N
+11-1-2010,Retail sales and food services excl motor vehicle and parts and gasoline stations,269925,N
+12-1-2010,Retail sales and food services excl motor vehicle and parts and gasoline stations,323060,N
+1-1-2010,"Retail sales, total",279044,N
+2-1-2010,"Retail sales, total",275566,N
+3-1-2010,"Retail sales, total",321305,N
+4-1-2010,"Retail sales, total",316940,N
+5-1-2010,"Retail sales, total",324820,N
+6-1-2010,"Retail sales, total",319183,N
+7-1-2010,"Retail sales, total",320915,N
+8-1-2010,"Retail sales, total",322319,N
+9-1-2010,"Retail sales, total",307638,N
+10-1-2010,"Retail sales, total",315059,N
+11-1-2010,"Retail sales, total",328381,N
+12-1-2010,"Retail sales, total",386878,N
+1-1-2010,"Retail sales, total (excl. motor vehicle and parts dealers)",229174,N
+2-1-2010,"Retail sales, total (excl. motor vehicle and parts dealers)",223744,N
+3-1-2010,"Retail sales, total (excl. motor vehicle and parts dealers)",253857,N
+4-1-2010,"Retail sales, total (excl. motor vehicle and parts dealers)",252572,N
+5-1-2010,"Retail sales, total (excl. motor vehicle and parts dealers)",259577,N
+6-1-2010,"Retail sales, total (excl. motor vehicle and parts dealers)",254483,N
+7-1-2010,"Retail sales, total (excl. motor vehicle and parts dealers)",253909,N
+8-1-2010,"Retail sales, total (excl. motor vehicle and parts dealers)",256245,N
+9-1-2010,"Retail sales, total (excl. motor vehicle and parts dealers)",245984,N
+10-1-2010,"Retail sales, total (excl. motor vehicle and parts dealers)",253673,N
+11-1-2010,"Retail sales, total (excl. motor vehicle and parts dealers)",269551,N
+12-1-2010,"Retail sales, total (excl. motor vehicle and parts dealers)",322366,N
+1-1-2010,GAFO(1),79913,N
+2-1-2010,GAFO(1),81419,N
+3-1-2010,GAFO(1),89806,N
+4-1-2010,GAFO(1),86903,N
+5-1-2010,GAFO(1),91304,N
+6-1-2010,GAFO(1),88173,N
+7-1-2010,GAFO(1),89423,N
+8-1-2010,GAFO(1),93182,N
+9-1-2010,GAFO(1),85680,N
+10-1-2010,GAFO(1),89244,N
+11-1-2010,GAFO(1),102647,N
+12-1-2010,GAFO(1),136680,N
+1-1-2009,"Retail and food services sales, total",310188,N
+2-1-2009,"Retail and food services sales, total",299412,N
+3-1-2009,"Retail and food services sales, total",328526,N
+4-1-2009,"Retail and food services sales, total",329854,N
+5-1-2009,"Retail and food services sales, total",347728,N
+6-1-2009,"Retail and food services sales, total",344405,N
+7-1-2009,"Retail and food services sales, total",348071,N
+8-1-2009,"Retail and food services sales, total",353392,N
+9-1-2009,"Retail and food services sales, total",324646,N
+10-1-2009,"Retail and food services sales, total",338610,N
+11-1-2009,"Retail and food services sales, total",339363,N
+12-1-2009,"Retail and food services sales, total",400281,N
+1-1-2009,Retail sales and food services excl motor vehicle and parts,260095,N
+2-1-2009,Retail sales and food services excl motor vehicle and parts,249406,N
+3-1-2009,Retail sales and food services excl motor vehicle and parts,271393,N
+4-1-2009,Retail sales and food services excl motor vehicle and parts,273915,N
+5-1-2009,Retail sales and food services excl motor vehicle and parts,289996,N
+6-1-2009,Retail sales and food services excl motor vehicle and parts,284883,N
+7-1-2009,Retail sales and food services excl motor vehicle and parts,285771,N
+8-1-2009,Retail sales and food services excl motor vehicle and parts,287210,N
+9-1-2009,Retail sales and food services excl motor vehicle and parts,272523,N
+10-1-2009,Retail sales and food services excl motor vehicle and parts,283744,N
+11-1-2009,Retail sales and food services excl motor vehicle and parts,289339,N
+12-1-2009,Retail sales and food services excl motor vehicle and parts,344429,N
+1-1-2009,Retail sales and food services excl gasoline stations,283647,N
+2-1-2009,Retail sales and food services excl gasoline stations,273792,N
+3-1-2009,Retail sales and food services excl gasoline stations,300076,N
+4-1-2009,Retail sales and food services excl gasoline stations,300417,N
+5-1-2009,Retail sales and food services excl gasoline stations,314770,N
+6-1-2009,Retail sales and food services excl gasoline stations,308460,N
+7-1-2009,Retail sales and food services excl gasoline stations,311732,N
+8-1-2009,Retail sales and food services excl gasoline stations,316412,N
+9-1-2009,Retail sales and food services excl gasoline stations,290298,N
+10-1-2009,Retail sales and food services excl gasoline stations,303585,N
+11-1-2009,Retail sales and food services excl gasoline stations,305021,N
+12-1-2009,Retail sales and food services excl gasoline stations,365032,N
+1-1-2009,Retail sales and food services excl motor vehicle and parts and gasoline stations,233554,N
+2-1-2009,Retail sales and food services excl motor vehicle and parts and gasoline stations,223786,N
+3-1-2009,Retail sales and food services excl motor vehicle and parts and gasoline stations,242943,N
+4-1-2009,Retail sales and food services excl motor vehicle and parts and gasoline stations,244478,N
+5-1-2009,Retail sales and food services excl motor vehicle and parts and gasoline stations,257038,N
+6-1-2009,Retail sales and food services excl motor vehicle and parts and gasoline stations,248938,N
+7-1-2009,Retail sales and food services excl motor vehicle and parts and gasoline stations,249432,N
+8-1-2009,Retail sales and food services excl motor vehicle and parts and gasoline stations,250230,N
+9-1-2009,Retail sales and food services excl motor vehicle and parts and gasoline stations,238175,N
+10-1-2009,Retail sales and food services excl motor vehicle and parts and gasoline stations,248719,N
+11-1-2009,Retail sales and food services excl motor vehicle and parts and gasoline stations,254997,N
+12-1-2009,Retail sales and food services excl motor vehicle and parts and gasoline stations,309180,N
+1-1-2009,"Retail sales, total",273998,N
+2-1-2009,"Retail sales, total",264465,N
+3-1-2009,"Retail sales, total",290068,N
+4-1-2009,"Retail sales, total",292041,N
+5-1-2009,"Retail sales, total",307481,N
+6-1-2009,"Retail sales, total",306050,N
+7-1-2009,"Retail sales, total",308847,N
+8-1-2009,"Retail sales, total",314505,N
+9-1-2009,"Retail sales, total",288071,N
+10-1-2009,"Retail sales, total",300360,N
+11-1-2009,"Retail sales, total",303850,N
+12-1-2009,"Retail sales, total",362735,N
+1-1-2009,"Retail sales, total (excl. motor vehicle and parts dealers)",223905,N
+2-1-2009,"Retail sales, total (excl. motor vehicle and parts dealers)",214459,N
+3-1-2009,"Retail sales, total (excl. motor vehicle and parts dealers)",232935,N
+4-1-2009,"Retail sales, total (excl. motor vehicle and parts dealers)",236102,N
+5-1-2009,"Retail sales, total (excl. motor vehicle and parts dealers)",249749,N
+6-1-2009,"Retail sales, total (excl. motor vehicle and parts dealers)",246528,N
+7-1-2009,"Retail sales, total (excl. motor vehicle and parts dealers)",246547,N
+8-1-2009,"Retail sales, total (excl. motor vehicle and parts dealers)",248323,N
+9-1-2009,"Retail sales, total (excl. motor vehicle and parts dealers)",235948,N
+10-1-2009,"Retail sales, total (excl. motor vehicle and parts dealers)",245494,N
+11-1-2009,"Retail sales, total (excl. motor vehicle and parts dealers)",253826,N
+12-1-2009,"Retail sales, total (excl. motor vehicle and parts dealers)",306883,N
+1-1-2009,GAFO(1),81348,N
+2-1-2009,GAFO(1),80415,N
+3-1-2009,GAFO(1),84735,N
+4-1-2009,GAFO(1),84743,N
+5-1-2009,GAFO(1),90415,N
+6-1-2009,GAFO(1),85806,N
+7-1-2009,GAFO(1),86616,N
+8-1-2009,GAFO(1),92055,N
+9-1-2009,GAFO(1),83173,N
+10-1-2009,GAFO(1),88123,N
+11-1-2009,GAFO(1),97840,N
+12-1-2009,GAFO(1),132928,N
+1-1-2008,"Retail and food services sales, total",342639,N
+2-1-2008,"Retail and food services sales, total",343893,N
+3-1-2008,"Retail and food services sales, total",372907,N
+4-1-2008,"Retail and food services sales, total",368920,N
+5-1-2008,"Retail and food services sales, total",397956,N
+6-1-2008,"Retail and food services sales, total",378507,N
+7-1-2008,"Retail and food services sales, total",383726,N
+8-1-2008,"Retail and food services sales, total",382862,N
+9-1-2008,"Retail and food services sales, total",350542,N
+10-1-2008,"Retail and food services sales, total",349847,N
+11-1-2008,"Retail and food services sales, total",335545,N
+12-1-2008,"Retail and food services sales, total",384236,N
+1-1-2008,Retail sales and food services excl motor vehicle and parts,276796,N
+2-1-2008,Retail sales and food services excl motor vehicle and parts,274863,N
+3-1-2008,Retail sales and food services excl motor vehicle and parts,296293,N
+4-1-2008,Retail sales and food services excl motor vehicle and parts,295184,N
+5-1-2008,Retail sales and food services excl motor vehicle and parts,321829,N
+6-1-2008,Retail sales and food services excl motor vehicle and parts,309079,N
+7-1-2008,Retail sales and food services excl motor vehicle and parts,314049,N
+8-1-2008,Retail sales and food services excl motor vehicle and parts,313186,N
+9-1-2008,Retail sales and food services excl motor vehicle and parts,290053,N
+10-1-2008,Retail sales and food services excl motor vehicle and parts,294821,N
+11-1-2008,Retail sales and food services excl motor vehicle and parts,287679,N
+12-1-2008,Retail sales and food services excl motor vehicle and parts,331883,N
+1-1-2008,Retail sales and food services excl gasoline stations,303949,N
+2-1-2008,Retail sales and food services excl gasoline stations,306277,N
+3-1-2008,Retail sales and food services excl gasoline stations,330681,N
+4-1-2008,Retail sales and food services excl gasoline stations,325257,N
+5-1-2008,Retail sales and food services excl gasoline stations,349444,N
+6-1-2008,Retail sales and food services excl gasoline stations,328422,N
+7-1-2008,Retail sales and food services excl gasoline stations,331998,N
+8-1-2008,Retail sales and food services excl gasoline stations,333794,N
+9-1-2008,Retail sales and food services excl gasoline stations,305360,N
+10-1-2008,Retail sales and food services excl gasoline stations,309222,N
+11-1-2008,Retail sales and food services excl gasoline stations,305676,N
+12-1-2008,Retail sales and food services excl gasoline stations,357861,N
+1-1-2008,Retail sales and food services excl motor vehicle and parts and gasoline stations,238106,N
+2-1-2008,Retail sales and food services excl motor vehicle and parts and gasoline stations,237247,N
+3-1-2008,Retail sales and food services excl motor vehicle and parts and gasoline stations,254067,N
+4-1-2008,Retail sales and food services excl motor vehicle and parts and gasoline stations,251521,N
+5-1-2008,Retail sales and food services excl motor vehicle and parts and gasoline stations,273317,N
+6-1-2008,Retail sales and food services excl motor vehicle and parts and gasoline stations,258994,N
+7-1-2008,Retail sales and food services excl motor vehicle and parts and gasoline stations,262321,N
+8-1-2008,Retail sales and food services excl motor vehicle and parts and gasoline stations,264118,N
+9-1-2008,Retail sales and food services excl motor vehicle and parts and gasoline stations,244871,N
+10-1-2008,Retail sales and food services excl motor vehicle and parts and gasoline stations,254196,N
+11-1-2008,Retail sales and food services excl motor vehicle and parts and gasoline stations,257810,N
+12-1-2008,Retail sales and food services excl motor vehicle and parts and gasoline stations,305508,N
+1-1-2008,"Retail sales, total",307576,N
+2-1-2008,"Retail sales, total",308171,N
+3-1-2008,"Retail sales, total",334416,N
+4-1-2008,"Retail sales, total",331002,N
+5-1-2008,"Retail sales, total",357277,N
+6-1-2008,"Retail sales, total",339791,N
+7-1-2008,"Retail sales, total",344158,N
+8-1-2008,"Retail sales, total",342443,N
+9-1-2008,"Retail sales, total",313308,N
+10-1-2008,"Retail sales, total",311422,N
+11-1-2008,"Retail sales, total",299238,N
+12-1-2008,"Retail sales, total",346513,N
+1-1-2008,"Retail sales, total (excl. motor vehicle and parts dealers)",241733,N
+2-1-2008,"Retail sales, total (excl. motor vehicle and parts dealers)",239141,N
+3-1-2008,"Retail sales, total (excl. motor vehicle and parts dealers)",257802,N
+4-1-2008,"Retail sales, total (excl. motor vehicle and parts dealers)",257266,N
+5-1-2008,"Retail sales, total (excl. motor vehicle and parts dealers)",281150,N
+6-1-2008,"Retail sales, total (excl. motor vehicle and parts dealers)",270363,N
+7-1-2008,"Retail sales, total (excl. motor vehicle and parts dealers)",274481,N
+8-1-2008,"Retail sales, total (excl. motor vehicle and parts dealers)",272767,N
+9-1-2008,"Retail sales, total (excl. motor vehicle and parts dealers)",252819,N
+10-1-2008,"Retail sales, total (excl. motor vehicle and parts dealers)",256396,N
+11-1-2008,"Retail sales, total (excl. motor vehicle and parts dealers)",251372,N
+12-1-2008,"Retail sales, total (excl. motor vehicle and parts dealers)",294160,N
+1-1-2008,GAFO(1),82944,N
+2-1-2008,GAFO(1),85539,N
+3-1-2008,GAFO(1),91761,N
+4-1-2008,GAFO(1),87462,N
+5-1-2008,GAFO(1),97590,N
+6-1-2008,GAFO(1),92346,N
+7-1-2008,GAFO(1),92496,N
+8-1-2008,GAFO(1),98336,N
+9-1-2008,GAFO(1),84961,N
+10-1-2008,GAFO(1),88650,N
+11-1-2008,GAFO(1),101013,N
+12-1-2008,GAFO(1),133278,N
+1-1-2007,"Retail and food services sales, total",328877,N
+2-1-2007,"Retail and food services sales, total",323162,N
+3-1-2007,"Retail and food services sales, total",374142,N
+4-1-2007,"Retail and food services sales, total",358535,N
+5-1-2007,"Retail and food services sales, total",391512,N
+6-1-2007,"Retail and food services sales, total",376639,N
+7-1-2007,"Retail and food services sales, total",372354,N
+8-1-2007,"Retail and food services sales, total",388016,N
+9-1-2007,"Retail and food services sales, total",353936,N
+10-1-2007,"Retail and food services sales, total",368681,N
+11-1-2007,"Retail and food services sales, total",377802,N
+12-1-2007,"Retail and food services sales, total",426077,N
+1-1-2007,Retail sales and food services excl motor vehicle and parts,262292,N
+2-1-2007,Retail sales and food services excl motor vehicle and parts,253789,N
+3-1-2007,Retail sales and food services excl motor vehicle and parts,290309,N
+4-1-2007,Retail sales and food services excl motor vehicle and parts,281270,N
+5-1-2007,Retail sales and food services excl motor vehicle and parts,306329,N
+6-1-2007,Retail sales and food services excl motor vehicle and parts,296815,N
+7-1-2007,Retail sales and food services excl motor vehicle and parts,293257,N
+8-1-2007,Retail sales and food services excl motor vehicle and parts,303383,N
+9-1-2007,Retail sales and food services excl motor vehicle and parts,280466,N
+10-1-2007,Retail sales and food services excl motor vehicle and parts,294220,N
+11-1-2007,Retail sales and food services excl motor vehicle and parts,310458,N
+12-1-2007,Retail sales and food services excl motor vehicle and parts,357006,N
+1-1-2007,Retail sales and food services excl gasoline stations,297955,N
+2-1-2007,Retail sales and food services excl gasoline stations,293400,N
+3-1-2007,Retail sales and food services excl gasoline stations,338539,N
+4-1-2007,Retail sales and food services excl gasoline stations,321858,N
+5-1-2007,Retail sales and food services excl gasoline stations,350134,N
+6-1-2007,Retail sales and food services excl gasoline stations,336158,N
+7-1-2007,Retail sales and food services excl gasoline stations,331658,N
+8-1-2007,Retail sales and food services excl gasoline stations,347629,N
+9-1-2007,Retail sales and food services excl gasoline stations,316261,N
+10-1-2007,Retail sales and food services excl gasoline stations,329256,N
+11-1-2007,Retail sales and food services excl gasoline stations,338000,N
+12-1-2007,Retail sales and food services excl gasoline stations,387063,N
+1-1-2007,Retail sales and food services excl motor vehicle and parts and gasoline stations,231370,N
+2-1-2007,Retail sales and food services excl motor vehicle and parts and gasoline stations,224027,N
+3-1-2007,Retail sales and food services excl motor vehicle and parts and gasoline stations,254706,N
+4-1-2007,Retail sales and food services excl motor vehicle and parts and gasoline stations,244593,N
+5-1-2007,Retail sales and food services excl motor vehicle and parts and gasoline stations,264951,N
+6-1-2007,Retail sales and food services excl motor vehicle and parts and gasoline stations,256334,N
+7-1-2007,Retail sales and food services excl motor vehicle and parts and gasoline stations,252561,N
+8-1-2007,Retail sales and food services excl motor vehicle and parts and gasoline stations,262996,N
+9-1-2007,Retail sales and food services excl motor vehicle and parts and gasoline stations,242791,N
+10-1-2007,Retail sales and food services excl motor vehicle and parts and gasoline stations,254795,N
+11-1-2007,Retail sales and food services excl motor vehicle and parts and gasoline stations,270656,N
+12-1-2007,Retail sales and food services excl motor vehicle and parts and gasoline stations,317992,N
+1-1-2007,"Retail sales, total",295284,N
+2-1-2007,"Retail sales, total",290065,N
+3-1-2007,"Retail sales, total",335917,N
+4-1-2007,"Retail sales, total",321981,N
+5-1-2007,"Retail sales, total",353201,N
+6-1-2007,"Retail sales, total",338189,N
+7-1-2007,"Retail sales, total",333815,N
+8-1-2007,"Retail sales, total",349191,N
+9-1-2007,"Retail sales, total",317145,N
+10-1-2007,"Retail sales, total",331073,N
+11-1-2007,"Retail sales, total",341848,N
+12-1-2007,"Retail sales, total",387473,N
+1-1-2007,"Retail sales, total (excl. motor vehicle and parts dealers)",228699,N
+2-1-2007,"Retail sales, total (excl. motor vehicle and parts dealers)",220692,N
+3-1-2007,"Retail sales, total (excl. motor vehicle and parts dealers)",252084,N
+4-1-2007,"Retail sales, total (excl. motor vehicle and parts dealers)",244716,N
+5-1-2007,"Retail sales, total (excl. motor vehicle and parts dealers)",268018,N
+6-1-2007,"Retail sales, total (excl. motor vehicle and parts dealers)",258365,N
+7-1-2007,"Retail sales, total (excl. motor vehicle and parts dealers)",254718,N
+8-1-2007,"Retail sales, total (excl. motor vehicle and parts dealers)",264558,N
+9-1-2007,"Retail sales, total (excl. motor vehicle and parts dealers)",243675,N
+10-1-2007,"Retail sales, total (excl. motor vehicle and parts dealers)",256612,N
+11-1-2007,"Retail sales, total (excl. motor vehicle and parts dealers)",274504,N
+12-1-2007,"Retail sales, total (excl. motor vehicle and parts dealers)",318402,N
+1-1-2007,GAFO(1),81867,N
+2-1-2007,GAFO(1),80923,N
+3-1-2007,GAFO(1),91885,N
+4-1-2007,GAFO(1),86935,N
+5-1-2007,GAFO(1),93516,N
+6-1-2007,GAFO(1),91675,N
+7-1-2007,GAFO(1),89929,N
+8-1-2007,GAFO(1),97930,N
+9-1-2007,GAFO(1),87545,N
+10-1-2007,GAFO(1),90808,N
+11-1-2007,GAFO(1),106767,N
+12-1-2007,GAFO(1),143646,N
+1-1-2006,"Retail and food services sales, total",318546,N
+2-1-2006,"Retail and food services sales, total",314051,N
+3-1-2006,"Retail and food services sales, total",361993,N
+4-1-2006,"Retail and food services sales, total",351667,N
+5-1-2006,"Retail and food services sales, total",373560,N
+6-1-2006,"Retail and food services sales, total",366615,N
+7-1-2006,"Retail and food services sales, total",362203,N
+8-1-2006,"Retail and food services sales, total",375795,N
+9-1-2006,"Retail and food services sales, total",346214,N
+10-1-2006,"Retail and food services sales, total",348796,N
+11-1-2006,"Retail and food services sales, total",356928,N
+12-1-2006,"Retail and food services sales, total",417991,N
+1-1-2006,Retail sales and food services excl motor vehicle and parts,252809,N
+2-1-2006,Retail sales and food services excl motor vehicle and parts,246599,N
+3-1-2006,Retail sales and food services excl motor vehicle and parts,279239,N
+4-1-2006,Retail sales and food services excl motor vehicle and parts,275487,N
+5-1-2006,Retail sales and food services excl motor vehicle and parts,292043,N
+6-1-2006,Retail sales and food services excl motor vehicle and parts,286016,N
+7-1-2006,Retail sales and food services excl motor vehicle and parts,281314,N
+8-1-2006,Retail sales and food services excl motor vehicle and parts,292798,N
+9-1-2006,Retail sales and food services excl motor vehicle and parts,273214,N
+10-1-2006,Retail sales and food services excl motor vehicle and parts,278431,N
+11-1-2006,Retail sales and food services excl motor vehicle and parts,289416,N
+12-1-2006,Retail sales and food services excl motor vehicle and parts,346996,N
+1-1-2006,Retail sales and food services excl gasoline stations,287746,N
+2-1-2006,Retail sales and food services excl gasoline stations,284798,N
+3-1-2006,Retail sales and food services excl gasoline stations,328106,N
+4-1-2006,Retail sales and food services excl gasoline stations,315665,N
+5-1-2006,Retail sales and food services excl gasoline stations,334544,N
+6-1-2006,Retail sales and food services excl gasoline stations,327489,N
+7-1-2006,Retail sales and food services excl gasoline stations,321618,N
+8-1-2006,Retail sales and food services excl gasoline stations,334744,N
+9-1-2006,Retail sales and food services excl gasoline stations,311384,N
+10-1-2006,Retail sales and food services excl gasoline stations,315588,N
+11-1-2006,Retail sales and food services excl gasoline stations,325372,N
+12-1-2006,Retail sales and food services excl gasoline stations,385329,N
+1-1-2006,Retail sales and food services excl motor vehicle and parts and gasoline stations,222009,N
+2-1-2006,Retail sales and food services excl motor vehicle and parts and gasoline stations,217346,N
+3-1-2006,Retail sales and food services excl motor vehicle and parts and gasoline stations,245352,N
+4-1-2006,Retail sales and food services excl motor vehicle and parts and gasoline stations,239485,N
+5-1-2006,Retail sales and food services excl motor vehicle and parts and gasoline stations,253027,N
+6-1-2006,Retail sales and food services excl motor vehicle and parts and gasoline stations,246890,N
+7-1-2006,Retail sales and food services excl motor vehicle and parts and gasoline stations,240729,N
+8-1-2006,Retail sales and food services excl motor vehicle and parts and gasoline stations,251747,N
+9-1-2006,Retail sales and food services excl motor vehicle and parts and gasoline stations,238384,N
+10-1-2006,Retail sales and food services excl motor vehicle and parts and gasoline stations,245223,N
+11-1-2006,Retail sales and food services excl motor vehicle and parts and gasoline stations,257860,N
+12-1-2006,Retail sales and food services excl motor vehicle and parts and gasoline stations,314334,N
+1-1-2006,"Retail sales, total",286152,N
+2-1-2006,"Retail sales, total",282417,N
+3-1-2006,"Retail sales, total",326153,N
+4-1-2006,"Retail sales, total",316526,N
+5-1-2006,"Retail sales, total",337393,N
+6-1-2006,"Retail sales, total",330844,N
+7-1-2006,"Retail sales, total",325905,N
+8-1-2006,"Retail sales, total",339155,N
+9-1-2006,"Retail sales, total",310775,N
+10-1-2006,"Retail sales, total",312976,N
+11-1-2006,"Retail sales, total",323089,N
+12-1-2006,"Retail sales, total",380188,N
+1-1-2006,"Retail sales, total (excl. motor vehicle and parts dealers)",220415,N
+2-1-2006,"Retail sales, total (excl. motor vehicle and parts dealers)",214965,N
+3-1-2006,"Retail sales, total (excl. motor vehicle and parts dealers)",243399,N
+4-1-2006,"Retail sales, total (excl. motor vehicle and parts dealers)",240346,N
+5-1-2006,"Retail sales, total (excl. motor vehicle and parts dealers)",255876,N
+6-1-2006,"Retail sales, total (excl. motor vehicle and parts dealers)",250245,N
+7-1-2006,"Retail sales, total (excl. motor vehicle and parts dealers)",245016,N
+8-1-2006,"Retail sales, total (excl. motor vehicle and parts dealers)",256158,N
+9-1-2006,"Retail sales, total (excl. motor vehicle and parts dealers)",237775,N
+10-1-2006,"Retail sales, total (excl. motor vehicle and parts dealers)",242611,N
+11-1-2006,"Retail sales, total (excl. motor vehicle and parts dealers)",255577,N
+12-1-2006,"Retail sales, total (excl. motor vehicle and parts dealers)",309193,N
+1-1-2006,GAFO(1),78420,N
+2-1-2006,GAFO(1),79008,N
+3-1-2006,GAFO(1),86862,N
+4-1-2006,GAFO(1),85932,N
+5-1-2006,GAFO(1),89166,N
+6-1-2006,GAFO(1),88412,N
+7-1-2006,GAFO(1),86913,N
+8-1-2006,GAFO(1),92998,N
+9-1-2006,GAFO(1),87134,N
+10-1-2006,GAFO(1),88479,N
+11-1-2006,GAFO(1),102281,N
+12-1-2006,GAFO(1),144550,N
+1-1-2005,"Retail and food services sales, total",293261,N
+2-1-2005,"Retail and food services sales, total",295062,N
+3-1-2005,"Retail and food services sales, total",339141,N
+4-1-2005,"Retail and food services sales, total",335632,N
+5-1-2005,"Retail and food services sales, total",345348,N
+6-1-2005,"Retail and food services sales, total",350945,N
+7-1-2005,"Retail and food services sales, total",351827,N
+8-1-2005,"Retail and food services sales, total",355701,N
+9-1-2005,"Retail and food services sales, total",333289,N
+10-1-2005,"Retail and food services sales, total",336134,N
+11-1-2005,"Retail and food services sales, total",343798,N
+12-1-2005,"Retail and food services sales, total",405608,N
+1-1-2005,Retail sales and food services excl motor vehicle and parts,231325,N
+2-1-2005,Retail sales and food services excl motor vehicle and parts,228117,N
+3-1-2005,Retail sales and food services excl motor vehicle and parts,258532,N
+4-1-2005,Retail sales and food services excl motor vehicle and parts,257963,N
+5-1-2005,Retail sales and food services excl motor vehicle and parts,267021,N
+6-1-2005,Retail sales and food services excl motor vehicle and parts,265567,N
+7-1-2005,Retail sales and food services excl motor vehicle and parts,264117,N
+8-1-2005,Retail sales and food services excl motor vehicle and parts,274481,N
+9-1-2005,Retail sales and food services excl motor vehicle and parts,263877,N
+10-1-2005,Retail sales and food services excl motor vehicle and parts,272540,N
+11-1-2005,Retail sales and food services excl motor vehicle and parts,278953,N
+12-1-2005,Retail sales and food services excl motor vehicle and parts,334946,N
+1-1-2005,Retail sales and food services excl gasoline stations,267695,N
+2-1-2005,Retail sales and food services excl gasoline stations,270080,N
+3-1-2005,Retail sales and food services excl gasoline stations,309761,N
+4-1-2005,Retail sales and food services excl gasoline stations,305083,N
+5-1-2005,Retail sales and food services excl gasoline stations,314197,N
+6-1-2005,Retail sales and food services excl gasoline stations,319083,N
+7-1-2005,Retail sales and food services excl gasoline stations,317939,N
+8-1-2005,Retail sales and food services excl gasoline stations,319497,N
+9-1-2005,Retail sales and food services excl gasoline stations,297029,N
+10-1-2005,Retail sales and food services excl gasoline stations,299577,N
+11-1-2005,Retail sales and food services excl gasoline stations,312538,N
+12-1-2005,Retail sales and food services excl gasoline stations,374344,N
+1-1-2005,Retail sales and food services excl motor vehicle and parts and gasoline stations,205759,N
+2-1-2005,Retail sales and food services excl motor vehicle and parts and gasoline stations,203135,N
+3-1-2005,Retail sales and food services excl motor vehicle and parts and gasoline stations,229152,N
+4-1-2005,Retail sales and food services excl motor vehicle and parts and gasoline stations,227414,N
+5-1-2005,Retail sales and food services excl motor vehicle and parts and gasoline stations,235870,N
+6-1-2005,Retail sales and food services excl motor vehicle and parts and gasoline stations,233705,N
+7-1-2005,Retail sales and food services excl motor vehicle and parts and gasoline stations,230229,N
+8-1-2005,Retail sales and food services excl motor vehicle and parts and gasoline stations,238277,N
+9-1-2005,Retail sales and food services excl motor vehicle and parts and gasoline stations,227617,N
+10-1-2005,Retail sales and food services excl motor vehicle and parts and gasoline stations,235983,N
+11-1-2005,Retail sales and food services excl motor vehicle and parts and gasoline stations,247693,N
+12-1-2005,Retail sales and food services excl motor vehicle and parts and gasoline stations,303682,N
+1-1-2005,"Retail sales, total",263469,N
+2-1-2005,"Retail sales, total",265320,N
+3-1-2005,"Retail sales, total",306384,N
+4-1-2005,"Retail sales, total",302054,N
+5-1-2005,"Retail sales, total",311292,N
+6-1-2005,"Retail sales, total",317375,N
+7-1-2005,"Retail sales, total",316887,N
+8-1-2005,"Retail sales, total",321409,N
+9-1-2005,"Retail sales, total",300439,N
+10-1-2005,"Retail sales, total",302213,N
+11-1-2005,"Retail sales, total",311715,N
+12-1-2005,"Retail sales, total",370726,N
+1-1-2005,"Retail sales, total (excl. motor vehicle and parts dealers)",201533,N
+2-1-2005,"Retail sales, total (excl. motor vehicle and parts dealers)",198375,N
+3-1-2005,"Retail sales, total (excl. motor vehicle and parts dealers)",225775,N
+4-1-2005,"Retail sales, total (excl. motor vehicle and parts dealers)",224385,N
+5-1-2005,"Retail sales, total (excl. motor vehicle and parts dealers)",232965,N
+6-1-2005,"Retail sales, total (excl. motor vehicle and parts dealers)",231997,N
+7-1-2005,"Retail sales, total (excl. motor vehicle and parts dealers)",229177,N
+8-1-2005,"Retail sales, total (excl. motor vehicle and parts dealers)",240189,N
+9-1-2005,"Retail sales, total (excl. motor vehicle and parts dealers)",231027,N
+10-1-2005,"Retail sales, total (excl. motor vehicle and parts dealers)",238619,N
+11-1-2005,"Retail sales, total (excl. motor vehicle and parts dealers)",246870,N
+12-1-2005,"Retail sales, total (excl. motor vehicle and parts dealers)",300064,N
+1-1-2005,GAFO(1),72963,N
+2-1-2005,GAFO(1),74808,N
+3-1-2005,GAFO(1),82664,N
+4-1-2005,GAFO(1),81063,N
+5-1-2005,GAFO(1),84175,N
+6-1-2005,GAFO(1),84379,N
+7-1-2005,GAFO(1),83562,N
+8-1-2005,GAFO(1),88789,N
+9-1-2005,GAFO(1),81830,N
+10-1-2005,GAFO(1),86755,N
+11-1-2005,GAFO(1),98658,N
+12-1-2005,GAFO(1),139953,N
+1-1-2004,"Retail and food services sales, total",281460,N
+2-1-2004,"Retail and food services sales, total",282444,N
+3-1-2004,"Retail and food services sales, total",319077,N
+4-1-2004,"Retail and food services sales, total",315191,N
+5-1-2004,"Retail and food services sales, total",328408,N
+6-1-2004,"Retail and food services sales, total",321044,N
+7-1-2004,"Retail and food services sales, total",328000,N
+8-1-2004,"Retail and food services sales, total",326317,N
+9-1-2004,"Retail and food services sales, total",313524,N
+10-1-2004,"Retail and food services sales, total",319726,N
+11-1-2004,"Retail and food services sales, total",324259,N
+12-1-2004,"Retail and food services sales, total",387155,N
+1-1-2004,Retail sales and food services excl motor vehicle and parts,220314,N
+2-1-2004,Retail sales and food services excl motor vehicle and parts,217214,N
+3-1-2004,Retail sales and food services excl motor vehicle and parts,240415,N
+4-1-2004,Retail sales and food services excl motor vehicle and parts,241939,N
+5-1-2004,Retail sales and food services excl motor vehicle and parts,250917,N
+6-1-2004,Retail sales and food services excl motor vehicle and parts,245689,N
+7-1-2004,Retail sales and food services excl motor vehicle and parts,249163,N
+8-1-2004,Retail sales and food services excl motor vehicle and parts,249940,N
+9-1-2004,Retail sales and food services excl motor vehicle and parts,239944,N
+10-1-2004,Retail sales and food services excl motor vehicle and parts,250981,N
+11-1-2004,Retail sales and food services excl motor vehicle and parts,259038,N
+12-1-2004,Retail sales and food services excl motor vehicle and parts,314679,N
+1-1-2004,Retail sales and food services excl gasoline stations,258687,N
+2-1-2004,Retail sales and food services excl gasoline stations,259890,N
+3-1-2004,Retail sales and food services excl gasoline stations,293475,N
+4-1-2004,Retail sales and food services excl gasoline stations,288984,N
+5-1-2004,Retail sales and food services excl gasoline stations,299830,N
+6-1-2004,Retail sales and food services excl gasoline stations,292641,N
+7-1-2004,Retail sales and food services excl gasoline stations,298714,N
+8-1-2004,Retail sales and food services excl gasoline stations,297588,N
+9-1-2004,Retail sales and food services excl gasoline stations,286173,N
+10-1-2004,Retail sales and food services excl gasoline stations,290182,N
+11-1-2004,Retail sales and food services excl gasoline stations,296583,N
+12-1-2004,Retail sales and food services excl gasoline stations,359852,N
+1-1-2004,Retail sales and food services excl motor vehicle and parts and gasoline stations,197541,N
+2-1-2004,Retail sales and food services excl motor vehicle and parts and gasoline stations,194660,N
+3-1-2004,Retail sales and food services excl motor vehicle and parts and gasoline stations,214813,N
+4-1-2004,Retail sales and food services excl motor vehicle and parts and gasoline stations,215732,N
+5-1-2004,Retail sales and food services excl motor vehicle and parts and gasoline stations,222339,N
+6-1-2004,Retail sales and food services excl motor vehicle and parts and gasoline stations,217286,N
+7-1-2004,Retail sales and food services excl motor vehicle and parts and gasoline stations,219877,N
+8-1-2004,Retail sales and food services excl motor vehicle and parts and gasoline stations,221211,N
+9-1-2004,Retail sales and food services excl motor vehicle and parts and gasoline stations,212593,N
+10-1-2004,Retail sales and food services excl motor vehicle and parts and gasoline stations,221437,N
+11-1-2004,Retail sales and food services excl motor vehicle and parts and gasoline stations,231362,N
+12-1-2004,Retail sales and food services excl motor vehicle and parts and gasoline stations,287376,N
+1-1-2004,"Retail sales, total",252818,N
+2-1-2004,"Retail sales, total",253689,N
+3-1-2004,"Retail sales, total",287944,N
+4-1-2004,"Retail sales, total",284325,N
+5-1-2004,"Retail sales, total",296253,N
+6-1-2004,"Retail sales, total",289664,N
+7-1-2004,"Retail sales, total",294875,N
+8-1-2004,"Retail sales, total",294133,N
+9-1-2004,"Retail sales, total",282974,N
+10-1-2004,"Retail sales, total",287468,N
+11-1-2004,"Retail sales, total",294278,N
+12-1-2004,"Retail sales, total",354627,N
+1-1-2004,"Retail sales, total (excl. motor vehicle and parts dealers)",191672,N
+2-1-2004,"Retail sales, total (excl. motor vehicle and parts dealers)",188459,N
+3-1-2004,"Retail sales, total (excl. motor vehicle and parts dealers)",209282,N
+4-1-2004,"Retail sales, total (excl. motor vehicle and parts dealers)",211073,N
+5-1-2004,"Retail sales, total (excl. motor vehicle and parts dealers)",218762,N
+6-1-2004,"Retail sales, total (excl. motor vehicle and parts dealers)",214309,N
+7-1-2004,"Retail sales, total (excl. motor vehicle and parts dealers)",216038,N
+8-1-2004,"Retail sales, total (excl. motor vehicle and parts dealers)",217756,N
+9-1-2004,"Retail sales, total (excl. motor vehicle and parts dealers)",209394,N
+10-1-2004,"Retail sales, total (excl. motor vehicle and parts dealers)",218723,N
+11-1-2004,"Retail sales, total (excl. motor vehicle and parts dealers)",229057,N
+12-1-2004,"Retail sales, total (excl. motor vehicle and parts dealers)",282151,N
+1-1-2004,GAFO(1),70448,N
+2-1-2004,GAFO(1),72295,N
+3-1-2004,GAFO(1),77591,N
+4-1-2004,GAFO(1),77093,N
+5-1-2004,GAFO(1),80595,N
+6-1-2004,GAFO(1),77927,N
+7-1-2004,GAFO(1),79732,N
+8-1-2004,GAFO(1),83081,N
+9-1-2004,GAFO(1),76941,N
+10-1-2004,GAFO(1),81807,N
+11-1-2004,GAFO(1),92634,N
+12-1-2004,GAFO(1),133747,N
+1-1-2003,"Retail and food services sales, total",268328,N
+2-1-2003,"Retail and food services sales, total",259051,N
+3-1-2003,"Retail and food services sales, total",293693,N
+4-1-2003,"Retail and food services sales, total",294251,N
+5-1-2003,"Retail and food services sales, total",312389,N
+6-1-2003,"Retail and food services sales, total",300998,N
+7-1-2003,"Retail and food services sales, total",309923,N
+8-1-2003,"Retail and food services sales, total",317056,N
+9-1-2003,"Retail and food services sales, total",293890,N
+10-1-2003,"Retail and food services sales, total",304036,N
+11-1-2003,"Retail and food services sales, total",301265,N
+12-1-2003,"Retail and food services sales, total",357577,N
+1-1-2003,Retail sales and food services excl motor vehicle and parts,206194,N
+2-1-2003,Retail sales and food services excl motor vehicle and parts,198030,N
+3-1-2003,Retail sales and food services excl motor vehicle and parts,221829,N
+4-1-2003,Retail sales and food services excl motor vehicle and parts,221855,N
+5-1-2003,Retail sales and food services excl motor vehicle and parts,235659,N
+6-1-2003,Retail sales and food services excl motor vehicle and parts,226376,N
+7-1-2003,Retail sales and food services excl motor vehicle and parts,231445,N
+8-1-2003,Retail sales and food services excl motor vehicle and parts,239394,N
+9-1-2003,Retail sales and food services excl motor vehicle and parts,223768,N
+10-1-2003,Retail sales and food services excl motor vehicle and parts,235903,N
+11-1-2003,Retail sales and food services excl motor vehicle and parts,239588,N
+12-1-2003,Retail sales and food services excl motor vehicle and parts,290828,N
+1-1-2003,Retail sales and food services excl gasoline stations,247124,N
+2-1-2003,Retail sales and food services excl gasoline stations,238199,N
+3-1-2003,Retail sales and food services excl gasoline stations,269821,N
+4-1-2003,Retail sales and food services excl gasoline stations,271422,N
+5-1-2003,Retail sales and food services excl gasoline stations,289096,N
+6-1-2003,Retail sales and food services excl gasoline stations,278197,N
+7-1-2003,Retail sales and food services excl gasoline stations,285929,N
+8-1-2003,Retail sales and food services excl gasoline stations,292091,N
+9-1-2003,Retail sales and food services excl gasoline stations,270490,N
+10-1-2003,Retail sales and food services excl gasoline stations,280391,N
+11-1-2003,Retail sales and food services excl gasoline stations,279319,N
+12-1-2003,Retail sales and food services excl gasoline stations,335191,N
+1-1-2003,Retail sales and food services excl motor vehicle and parts and gasoline stations,184990,N
+2-1-2003,Retail sales and food services excl motor vehicle and parts and gasoline stations,177178,N
+3-1-2003,Retail sales and food services excl motor vehicle and parts and gasoline stations,197957,N
+4-1-2003,Retail sales and food services excl motor vehicle and parts and gasoline stations,199026,N
+5-1-2003,Retail sales and food services excl motor vehicle and parts and gasoline stations,212366,N
+6-1-2003,Retail sales and food services excl motor vehicle and parts and gasoline stations,203575,N
+7-1-2003,Retail sales and food services excl motor vehicle and parts and gasoline stations,207451,N
+8-1-2003,Retail sales and food services excl motor vehicle and parts and gasoline stations,214429,N
+9-1-2003,Retail sales and food services excl motor vehicle and parts and gasoline stations,200368,N
+10-1-2003,Retail sales and food services excl motor vehicle and parts and gasoline stations,212258,N
+11-1-2003,Retail sales and food services excl motor vehicle and parts and gasoline stations,217642,N
+12-1-2003,Retail sales and food services excl motor vehicle and parts and gasoline stations,268442,N
+1-1-2003,"Retail sales, total",242271,N
+2-1-2003,"Retail sales, total",233478,N
+3-1-2003,"Retail sales, total",264532,N
+4-1-2003,"Retail sales, total",265990,N
+5-1-2003,"Retail sales, total",281482,N
+6-1-2003,"Retail sales, total",271242,N
+7-1-2003,"Retail sales, total",279323,N
+8-1-2003,"Retail sales, total",285212,N
+9-1-2003,"Retail sales, total",265331,N
+10-1-2003,"Retail sales, total",273781,N
+11-1-2003,"Retail sales, total",272396,N
+12-1-2003,"Retail sales, total",327693,N
+1-1-2003,"Retail sales, total (excl. motor vehicle and parts dealers)",180137,N
+2-1-2003,"Retail sales, total (excl. motor vehicle and parts dealers)",172457,N
+3-1-2003,"Retail sales, total (excl. motor vehicle and parts dealers)",192668,N
+4-1-2003,"Retail sales, total (excl. motor vehicle and parts dealers)",193594,N
+5-1-2003,"Retail sales, total (excl. motor vehicle and parts dealers)",204752,N
+6-1-2003,"Retail sales, total (excl. motor vehicle and parts dealers)",196620,N
+7-1-2003,"Retail sales, total (excl. motor vehicle and parts dealers)",200845,N
+8-1-2003,"Retail sales, total (excl. motor vehicle and parts dealers)",207550,N
+9-1-2003,"Retail sales, total (excl. motor vehicle and parts dealers)",195209,N
+10-1-2003,"Retail sales, total (excl. motor vehicle and parts dealers)",205648,N
+11-1-2003,"Retail sales, total (excl. motor vehicle and parts dealers)",210719,N
+12-1-2003,"Retail sales, total (excl. motor vehicle and parts dealers)",260944,N
+1-1-2003,GAFO(1),65160,N
+2-1-2003,GAFO(1),64466,N
+3-1-2003,GAFO(1),71997,N
+4-1-2003,GAFO(1),71294,N
+5-1-2003,GAFO(1),76942,N
+6-1-2003,GAFO(1),73813,N
+7-1-2003,GAFO(1),74664,N
+8-1-2003,GAFO(1),82179,N
+9-1-2003,GAFO(1),72786,N
+10-1-2003,GAFO(1),77420,N
+11-1-2003,GAFO(1),88885,N
+12-1-2003,GAFO(1),126508,N
+1-1-2002,"Retail and food services sales, total",255598,N
+2-1-2002,"Retail and food services sales, total",253086,N
+3-1-2002,"Retail and food services sales, total",285261,N
+4-1-2002,"Retail and food services sales, total",284747,N
+5-1-2002,"Retail and food services sales, total",300402,N
+6-1-2002,"Retail and food services sales, total",288854,N
+7-1-2002,"Retail and food services sales, total",295433,N
+8-1-2002,"Retail and food services sales, total",307256,N
+9-1-2002,"Retail and food services sales, total",273189,N
+10-1-2002,"Retail and food services sales, total",287540,N
+11-1-2002,"Retail and food services sales, total",290705,N
+12-1-2002,"Retail and food services sales, total",337006,N
+1-1-2002,Retail sales and food services excl motor vehicle and parts,195033,N
+2-1-2002,Retail sales and food services excl motor vehicle and parts,190149,N
+3-1-2002,Retail sales and food services excl motor vehicle and parts,215490,N
+4-1-2002,Retail sales and food services excl motor vehicle and parts,213955,N
+5-1-2002,Retail sales and food services excl motor vehicle and parts,228248,N
+6-1-2002,Retail sales and food services excl motor vehicle and parts,217787,N
+7-1-2002,Retail sales and food services excl motor vehicle and parts,219025,N
+8-1-2002,Retail sales and food services excl motor vehicle and parts,227673,N
+9-1-2002,Retail sales and food services excl motor vehicle and parts,208039,N
+10-1-2002,Retail sales and food services excl motor vehicle and parts,221211,N
+11-1-2002,Retail sales and food services excl motor vehicle and parts,230116,N
+12-1-2002,Retail sales and food services excl motor vehicle and parts,273540,N
+1-1-2002,Retail sales and food services excl gasoline stations,238094,N
+2-1-2002,Retail sales and food services excl gasoline stations,236382,N
+3-1-2002,Retail sales and food services excl gasoline stations,265428,N
+4-1-2002,Retail sales and food services excl gasoline stations,263641,N
+5-1-2002,Retail sales and food services excl gasoline stations,278174,N
+6-1-2002,Retail sales and food services excl gasoline stations,267188,N
+7-1-2002,Retail sales and food services excl gasoline stations,272452,N
+8-1-2002,Retail sales and food services excl gasoline stations,284125,N
+9-1-2002,Retail sales and food services excl gasoline stations,251811,N
+10-1-2002,Retail sales and food services excl gasoline stations,265275,N
+11-1-2002,Retail sales and food services excl gasoline stations,269818,N
+12-1-2002,Retail sales and food services excl gasoline stations,316070,N
+1-1-2002,Retail sales and food services excl motor vehicle and parts and gasoline stations,177529,N
+2-1-2002,Retail sales and food services excl motor vehicle and parts and gasoline stations,173445,N
+3-1-2002,Retail sales and food services excl motor vehicle and parts and gasoline stations,195657,N
+4-1-2002,Retail sales and food services excl motor vehicle and parts and gasoline stations,192849,N
+5-1-2002,Retail sales and food services excl motor vehicle and parts and gasoline stations,206020,N
+6-1-2002,Retail sales and food services excl motor vehicle and parts and gasoline stations,196121,N
+7-1-2002,Retail sales and food services excl motor vehicle and parts and gasoline stations,196044,N
+8-1-2002,Retail sales and food services excl motor vehicle and parts and gasoline stations,204542,N
+9-1-2002,Retail sales and food services excl motor vehicle and parts and gasoline stations,186661,N
+10-1-2002,Retail sales and food services excl motor vehicle and parts and gasoline stations,198946,N
+11-1-2002,Retail sales and food services excl motor vehicle and parts and gasoline stations,209229,N
+12-1-2002,Retail sales and food services excl motor vehicle and parts and gasoline stations,252604,N
+1-1-2002,"Retail sales, total",230546,N
+2-1-2002,"Retail sales, total",228084,N
+3-1-2002,"Retail sales, total",257133,N
+4-1-2002,"Retail sales, total",257357,N
+5-1-2002,"Retail sales, total",271682,N
+6-1-2002,"Retail sales, total",260385,N
+7-1-2002,"Retail sales, total",266795,N
+8-1-2002,"Retail sales, total",277716,N
+9-1-2002,"Retail sales, total",246350,N
+10-1-2002,"Retail sales, total",259945,N
+11-1-2002,"Retail sales, total",263738,N
+12-1-2002,"Retail sales, total",308821,N
+1-1-2002,"Retail sales, total (excl. motor vehicle and parts dealers)",169981,N
+2-1-2002,"Retail sales, total (excl. motor vehicle and parts dealers)",165147,N
+3-1-2002,"Retail sales, total (excl. motor vehicle and parts dealers)",187362,N
+4-1-2002,"Retail sales, total (excl. motor vehicle and parts dealers)",186565,N
+5-1-2002,"Retail sales, total (excl. motor vehicle and parts dealers)",199528,N
+6-1-2002,"Retail sales, total (excl. motor vehicle and parts dealers)",189318,N
+7-1-2002,"Retail sales, total (excl. motor vehicle and parts dealers)",190387,N
+8-1-2002,"Retail sales, total (excl. motor vehicle and parts dealers)",198133,N
+9-1-2002,"Retail sales, total (excl. motor vehicle and parts dealers)",181200,N
+10-1-2002,"Retail sales, total (excl. motor vehicle and parts dealers)",193616,N
+11-1-2002,"Retail sales, total (excl. motor vehicle and parts dealers)",203149,N
+12-1-2002,"Retail sales, total (excl. motor vehicle and parts dealers)",245355,N
+1-1-2002,GAFO(1),63242,N
+2-1-2002,GAFO(1),64043,N
+3-1-2002,GAFO(1),73116,N
+4-1-2002,GAFO(1),69137,N
+5-1-2002,GAFO(1),74799,N
+6-1-2002,GAFO(1),72042,N
+7-1-2002,GAFO(1),70434,N
+8-1-2002,GAFO(1),78050,N
+9-1-2002,GAFO(1),68301,N
+10-1-2002,GAFO(1),73606,N
+11-1-2002,GAFO(1),85664,N
+12-1-2002,GAFO(1),120273,N
+1-1-2001,"Retail and food services sales, total",250746,N
+2-1-2001,"Retail and food services sales, total",247772,N
+3-1-2001,"Retail and food services sales, total",280449,N
+4-1-2001,"Retail and food services sales, total",274925,N
+5-1-2001,"Retail and food services sales, total",296013,N
+6-1-2001,"Retail and food services sales, total",287881,N
+7-1-2001,"Retail and food services sales, total",279098,N
+8-1-2001,"Retail and food services sales, total",294763,N
+9-1-2001,"Retail and food services sales, total",261924,N
+10-1-2001,"Retail and food services sales, total",291596,N
+11-1-2001,"Retail and food services sales, total",287537,N
+12-1-2001,"Retail and food services sales, total",326202,N
+1-1-2001,Retail sales and food services excl motor vehicle and parts,191485,N
+2-1-2001,Retail sales and food services excl motor vehicle and parts,186254,N
+3-1-2001,Retail sales and food services excl motor vehicle and parts,209049,N
+4-1-2001,Retail sales and food services excl motor vehicle and parts,207647,N
+5-1-2001,Retail sales and food services excl motor vehicle and parts,221671,N
+6-1-2001,Retail sales and food services excl motor vehicle and parts,215142,N
+7-1-2001,Retail sales and food services excl motor vehicle and parts,210053,N
+8-1-2001,Retail sales and food services excl motor vehicle and parts,221436,N
+9-1-2001,Retail sales and food services excl motor vehicle and parts,200982,N
+10-1-2001,Retail sales and food services excl motor vehicle and parts,212062,N
+11-1-2001,Retail sales and food services excl motor vehicle and parts,222341,N
+12-1-2001,Retail sales and food services excl motor vehicle and parts,265205,N
+1-1-2001,Retail sales and food services excl gasoline stations,230657,N
+2-1-2001,Retail sales and food services excl gasoline stations,228837,N
+3-1-2001,Retail sales and food services excl gasoline stations,259652,N
+4-1-2001,Retail sales and food services excl gasoline stations,253264,N
+5-1-2001,Retail sales and food services excl gasoline stations,272163,N
+6-1-2001,Retail sales and food services excl gasoline stations,264637,N
+7-1-2001,Retail sales and food services excl gasoline stations,257026,N
+8-1-2001,Retail sales and food services excl gasoline stations,272110,N
+9-1-2001,Retail sales and food services excl gasoline stations,240545,N
+10-1-2001,Retail sales and food services excl gasoline stations,271162,N
+11-1-2001,Retail sales and food services excl gasoline stations,269100,N
+12-1-2001,Retail sales and food services excl gasoline stations,308370,N
+1-1-2001,Retail sales and food services excl motor vehicle and parts and gasoline stations,171396,N
+2-1-2001,Retail sales and food services excl motor vehicle and parts and gasoline stations,167319,N
+3-1-2001,Retail sales and food services excl motor vehicle and parts and gasoline stations,188252,N
+4-1-2001,Retail sales and food services excl motor vehicle and parts and gasoline stations,185986,N
+5-1-2001,Retail sales and food services excl motor vehicle and parts and gasoline stations,197821,N
+6-1-2001,Retail sales and food services excl motor vehicle and parts and gasoline stations,191898,N
+7-1-2001,Retail sales and food services excl motor vehicle and parts and gasoline stations,187981,N
+8-1-2001,Retail sales and food services excl motor vehicle and parts and gasoline stations,198783,N
+9-1-2001,Retail sales and food services excl motor vehicle and parts and gasoline stations,179603,N
+10-1-2001,Retail sales and food services excl motor vehicle and parts and gasoline stations,191628,N
+11-1-2001,Retail sales and food services excl motor vehicle and parts and gasoline stations,203904,N
+12-1-2001,Retail sales and food services excl motor vehicle and parts and gasoline stations,247373,N
+1-1-2001,"Retail sales, total",226791,N
+2-1-2001,"Retail sales, total",223971,N
+3-1-2001,"Retail sales, total",253439,N
+4-1-2001,"Retail sales, total",249062,N
+5-1-2001,"Retail sales, total",268658,N
+6-1-2001,"Retail sales, total",260315,N
+7-1-2001,"Retail sales, total",251504,N
+8-1-2001,"Retail sales, total",266460,N
+9-1-2001,"Retail sales, total",236210,N
+10-1-2001,"Retail sales, total",265188,N
+11-1-2001,"Retail sales, total",262004,N
+12-1-2001,"Retail sales, total",298666,N
+1-1-2001,"Retail sales, total (excl. motor vehicle and parts dealers)",167530,N
+2-1-2001,"Retail sales, total (excl. motor vehicle and parts dealers)",162453,N
+3-1-2001,"Retail sales, total (excl. motor vehicle and parts dealers)",182039,N
+4-1-2001,"Retail sales, total (excl. motor vehicle and parts dealers)",181784,N
+5-1-2001,"Retail sales, total (excl. motor vehicle and parts dealers)",194316,N
+6-1-2001,"Retail sales, total (excl. motor vehicle and parts dealers)",187576,N
+7-1-2001,"Retail sales, total (excl. motor vehicle and parts dealers)",182459,N
+8-1-2001,"Retail sales, total (excl. motor vehicle and parts dealers)",193133,N
+9-1-2001,"Retail sales, total (excl. motor vehicle and parts dealers)",175268,N
+10-1-2001,"Retail sales, total (excl. motor vehicle and parts dealers)",185654,N
+11-1-2001,"Retail sales, total (excl. motor vehicle and parts dealers)",196808,N
+12-1-2001,"Retail sales, total (excl. motor vehicle and parts dealers)",237669,N
+1-1-2001,GAFO(1),60886,N
+2-1-2001,GAFO(1),60888,N
+3-1-2001,GAFO(1),68273,N
+4-1-2001,GAFO(1),67528,N
+5-1-2001,GAFO(1),71133,N
+6-1-2001,GAFO(1),69654,N
+7-1-2001,GAFO(1),67991,N
+8-1-2001,GAFO(1),75761,N
+9-1-2001,GAFO(1),66261,N
+10-1-2001,GAFO(1),70307,N
+11-1-2001,GAFO(1),84413,N
+12-1-2001,GAFO(1),119605,N
+1-1-2000,"Retail and food services sales, total",236422,N
+2-1-2000,"Retail and food services sales, total",250580,N
+3-1-2000,"Retail and food services sales, total",279515,N
+4-1-2000,"Retail and food services sales, total",264417,N
+5-1-2000,"Retail and food services sales, total",283706,N
+6-1-2000,"Retail and food services sales, total",281288,N
+7-1-2000,"Retail and food services sales, total",271146,N
+8-1-2000,"Retail and food services sales, total",283944,N
+9-1-2000,"Retail and food services sales, total",269155,N
+10-1-2000,"Retail and food services sales, total",270899,N
+11-1-2000,"Retail and food services sales, total",276507,N
+12-1-2000,"Retail and food services sales, total",319958,N
+1-1-2000,Retail sales and food services excl motor vehicle and parts,177649,N
+2-1-2000,Retail sales and food services excl motor vehicle and parts,183688,N
+3-1-2000,Retail sales and food services excl motor vehicle and parts,204448,N
+4-1-2000,Retail sales and food services excl motor vehicle and parts,198431,N
+5-1-2000,Retail sales and food services excl motor vehicle and parts,210656,N
+6-1-2000,Retail sales and food services excl motor vehicle and parts,208286,N
+7-1-2000,Retail sales and food services excl motor vehicle and parts,203886,N
+8-1-2000,Retail sales and food services excl motor vehicle and parts,212094,N
+9-1-2000,Retail sales and food services excl motor vehicle and parts,203320,N
+10-1-2000,Retail sales and food services excl motor vehicle and parts,207094,N
+11-1-2000,Retail sales and food services excl motor vehicle and parts,218058,N
+12-1-2000,Retail sales and food services excl motor vehicle and parts,263717,N
+1-1-2000,Retail sales and food services excl gasoline stations,218729,N
+2-1-2000,Retail sales and food services excl gasoline stations,232286,N
+3-1-2000,Retail sales and food services excl gasoline stations,258696,N
+4-1-2000,Retail sales and food services excl gasoline stations,244649,N
+5-1-2000,Retail sales and food services excl gasoline stations,262492,N
+6-1-2000,Retail sales and food services excl gasoline stations,259046,N
+7-1-2000,Retail sales and food services excl gasoline stations,248882,N
+8-1-2000,Retail sales and food services excl gasoline stations,261806,N
+9-1-2000,Retail sales and food services excl gasoline stations,247487,N
+10-1-2000,Retail sales and food services excl gasoline stations,249187,N
+11-1-2000,Retail sales and food services excl gasoline stations,255609,N
+12-1-2000,Retail sales and food services excl gasoline stations,298852,N
+1-1-2000,Retail sales and food services excl motor vehicle and parts and gasoline stations,159956,N
+2-1-2000,Retail sales and food services excl motor vehicle and parts and gasoline stations,165394,N
+3-1-2000,Retail sales and food services excl motor vehicle and parts and gasoline stations,183629,N
+4-1-2000,Retail sales and food services excl motor vehicle and parts and gasoline stations,178663,N
+5-1-2000,Retail sales and food services excl motor vehicle and parts and gasoline stations,189442,N
+6-1-2000,Retail sales and food services excl motor vehicle and parts and gasoline stations,186044,N
+7-1-2000,Retail sales and food services excl motor vehicle and parts and gasoline stations,181622,N
+8-1-2000,Retail sales and food services excl motor vehicle and parts and gasoline stations,189956,N
+9-1-2000,Retail sales and food services excl motor vehicle and parts and gasoline stations,181652,N
+10-1-2000,Retail sales and food services excl motor vehicle and parts and gasoline stations,185382,N
+11-1-2000,Retail sales and food services excl motor vehicle and parts and gasoline stations,197160,N
+12-1-2000,Retail sales and food services excl motor vehicle and parts and gasoline stations,242611,N
+1-1-2000,"Retail sales, total",213709,N
+2-1-2000,"Retail sales, total",227087,N
+3-1-2000,"Retail sales, total",253717,N
+4-1-2000,"Retail sales, total",239051,N
+5-1-2000,"Retail sales, total",257581,N
+6-1-2000,"Retail sales, total",255066,N
+7-1-2000,"Retail sales, total",244445,N
+8-1-2000,"Retail sales, total",257487,N
+9-1-2000,"Retail sales, total",243624,N
+10-1-2000,"Retail sales, total",245167,N
+11-1-2000,"Retail sales, total",252145,N
+12-1-2000,"Retail sales, total",294197,N
+1-1-2000,"Retail sales, total (excl. motor vehicle and parts dealers)",154936,N
+2-1-2000,"Retail sales, total (excl. motor vehicle and parts dealers)",160195,N
+3-1-2000,"Retail sales, total (excl. motor vehicle and parts dealers)",178650,N
+4-1-2000,"Retail sales, total (excl. motor vehicle and parts dealers)",173065,N
+5-1-2000,"Retail sales, total (excl. motor vehicle and parts dealers)",184531,N
+6-1-2000,"Retail sales, total (excl. motor vehicle and parts dealers)",182064,N
+7-1-2000,"Retail sales, total (excl. motor vehicle and parts dealers)",177185,N
+8-1-2000,"Retail sales, total (excl. motor vehicle and parts dealers)",185637,N
+9-1-2000,"Retail sales, total (excl. motor vehicle and parts dealers)",177789,N
+10-1-2000,"Retail sales, total (excl. motor vehicle and parts dealers)",181362,N
+11-1-2000,"Retail sales, total (excl. motor vehicle and parts dealers)",193696,N
+12-1-2000,"Retail sales, total (excl. motor vehicle and parts dealers)",237956,N
+1-1-2000,GAFO(1),57190,N
+2-1-2000,GAFO(1),60334,N
+3-1-2000,GAFO(1),67532,N
+4-1-2000,GAFO(1),66185,N
+5-1-2000,GAFO(1),69726,N
+6-1-2000,GAFO(1),68326,N
+7-1-2000,GAFO(1),66631,N
+8-1-2000,GAFO(1),72694,N
+9-1-2000,GAFO(1),67939,N
+10-1-2000,GAFO(1),68835,N
+11-1-2000,GAFO(1),81436,N
+12-1-2000,GAFO(1),115911,N
+1-1-1999,"Retail and food services sales, total",218126,N
+2-1-1999,"Retail and food services sales, total",220650,N
+3-1-1999,"Retail and food services sales, total",253550,N
+4-1-1999,"Retail and food services sales, total",250783,N
+5-1-1999,"Retail and food services sales, total",262113,N
+6-1-1999,"Retail and food services sales, total",260918,N
+7-1-1999,"Retail and food services sales, total",262051,N
+8-1-1999,"Retail and food services sales, total",265089,N
+9-1-1999,"Retail and food services sales, total",253905,N
+10-1-1999,"Retail and food services sales, total",258040,N
+11-1-1999,"Retail and food services sales, total",264106,N
+12-1-1999,"Retail and food services sales, total",317659,N
+1-1-1999,Retail sales and food services excl motor vehicle and parts,165591,N
+2-1-1999,Retail sales and food services excl motor vehicle and parts,163598,N
+3-1-1999,Retail sales and food services excl motor vehicle and parts,185818,N
+4-1-1999,Retail sales and food services excl motor vehicle and parts,185914,N
+5-1-1999,Retail sales and food services excl motor vehicle and parts,194291,N
+6-1-1999,Retail sales and food services excl motor vehicle and parts,191552,N
+7-1-1999,Retail sales and food services excl motor vehicle and parts,193716,N
+8-1-1999,Retail sales and food services excl motor vehicle and parts,195625,N
+9-1-1999,Retail sales and food services excl motor vehicle and parts,189333,N
+10-1-1999,Retail sales and food services excl motor vehicle and parts,195657,N
+11-1-1999,Retail sales and food services excl motor vehicle and parts,204250,N
+12-1-1999,Retail sales and food services excl motor vehicle and parts,257441,N
+1-1-1999,Retail sales and food services excl gasoline stations,203011,N
+2-1-1999,Retail sales and food services excl gasoline stations,206380,N
+3-1-1999,Retail sales and food services excl gasoline stations,237252,N
+4-1-1999,Retail sales and food services excl gasoline stations,233582,N
+5-1-1999,Retail sales and food services excl gasoline stations,244205,N
+6-1-1999,Retail sales and food services excl gasoline stations,242995,N
+7-1-1999,Retail sales and food services excl gasoline stations,242931,N
+8-1-1999,Retail sales and food services excl gasoline stations,245811,N
+9-1-1999,Retail sales and food services excl gasoline stations,235346,N
+10-1-1999,Retail sales and food services excl gasoline stations,239073,N
+11-1-1999,Retail sales and food services excl gasoline stations,245874,N
+12-1-1999,Retail sales and food services excl gasoline stations,298006,N
+1-1-1999,Retail sales and food services excl motor vehicle and parts and gasoline stations,150476,N
+2-1-1999,Retail sales and food services excl motor vehicle and parts and gasoline stations,149328,N
+3-1-1999,Retail sales and food services excl motor vehicle and parts and gasoline stations,169520,N
+4-1-1999,Retail sales and food services excl motor vehicle and parts and gasoline stations,168713,N
+5-1-1999,Retail sales and food services excl motor vehicle and parts and gasoline stations,176383,N
+6-1-1999,Retail sales and food services excl motor vehicle and parts and gasoline stations,173629,N
+7-1-1999,Retail sales and food services excl motor vehicle and parts and gasoline stations,174596,N
+8-1-1999,Retail sales and food services excl motor vehicle and parts and gasoline stations,176347,N
+9-1-1999,Retail sales and food services excl motor vehicle and parts and gasoline stations,170774,N
+10-1-1999,Retail sales and food services excl motor vehicle and parts and gasoline stations,176690,N
+11-1-1999,Retail sales and food services excl motor vehicle and parts and gasoline stations,186018,N
+12-1-1999,Retail sales and food services excl motor vehicle and parts and gasoline stations,237788,N
+1-1-1999,"Retail sales, total",196810,N
+2-1-1999,"Retail sales, total",199451,N
+3-1-1999,"Retail sales, total",230230,N
+4-1-1999,"Retail sales, total",227109,N
+5-1-1999,"Retail sales, total",237462,N
+6-1-1999,"Retail sales, total",236830,N
+7-1-1999,"Retail sales, total",236992,N
+8-1-1999,"Retail sales, total",240478,N
+9-1-1999,"Retail sales, total",230665,N
+10-1-1999,"Retail sales, total",233193,N
+11-1-1999,"Retail sales, total",240857,N
+12-1-1999,"Retail sales, total",293013,N
+1-1-1999,"Retail sales, total (excl. motor vehicle and parts dealers)",144275,N
+2-1-1999,"Retail sales, total (excl. motor vehicle and parts dealers)",142399,N
+3-1-1999,"Retail sales, total (excl. motor vehicle and parts dealers)",162498,N
+4-1-1999,"Retail sales, total (excl. motor vehicle and parts dealers)",162240,N
+5-1-1999,"Retail sales, total (excl. motor vehicle and parts dealers)",169640,N
+6-1-1999,"Retail sales, total (excl. motor vehicle and parts dealers)",167464,N
+7-1-1999,"Retail sales, total (excl. motor vehicle and parts dealers)",168657,N
+8-1-1999,"Retail sales, total (excl. motor vehicle and parts dealers)",171014,N
+9-1-1999,"Retail sales, total (excl. motor vehicle and parts dealers)",166093,N
+10-1-1999,"Retail sales, total (excl. motor vehicle and parts dealers)",170810,N
+11-1-1999,"Retail sales, total (excl. motor vehicle and parts dealers)",181001,N
+12-1-1999,"Retail sales, total (excl. motor vehicle and parts dealers)",232795,N
+1-1-1999,GAFO(1),54153,N
+2-1-1999,GAFO(1),54729,N
+3-1-1999,GAFO(1),62946,N
+4-1-1999,GAFO(1),61662,N
+5-1-1999,GAFO(1),65302,N
+6-1-1999,GAFO(1),64293,N
+7-1-1999,GAFO(1),64020,N
+8-1-1999,GAFO(1),67768,N
+9-1-1999,GAFO(1),64037,N
+10-1-1999,GAFO(1),66533,N
+11-1-1999,GAFO(1),76342,N
+12-1-1999,GAFO(1),113880,N
+1-1-1998,"Retail and food services sales, total",207853,N
+2-1-1998,"Retail and food services sales, total",203863,N
+3-1-1998,"Retail and food services sales, total",230313,N
+4-1-1998,"Retail and food services sales, total",234503,N
+5-1-1998,"Retail and food services sales, total",245027,N
+6-1-1998,"Retail and food services sales, total",244067,N
+7-1-1998,"Retail and food services sales, total",241431,N
+8-1-1998,"Retail and food services sales, total",240462,N
+9-1-1998,"Retail and food services sales, total",231243,N
+10-1-1998,"Retail and food services sales, total",244234,N
+11-1-1998,"Retail and food services sales, total",240991,N
+12-1-1998,"Retail and food services sales, total",288969,N
+1-1-1998,Retail sales and food services excl motor vehicle and parts,158132,N
+2-1-1998,Retail sales and food services excl motor vehicle and parts,153119,N
+3-1-1998,Retail sales and food services excl motor vehicle and parts,170482,N
+4-1-1998,Retail sales and food services excl motor vehicle and parts,174475,N
+5-1-1998,Retail sales and food services excl motor vehicle and parts,182817,N
+6-1-1998,Retail sales and food services excl motor vehicle and parts,179213,N
+7-1-1998,Retail sales and food services excl motor vehicle and parts,181661,N
+8-1-1998,Retail sales and food services excl motor vehicle and parts,182720,N
+9-1-1998,Retail sales and food services excl motor vehicle and parts,174613,N
+10-1-1998,Retail sales and food services excl motor vehicle and parts,184751,N
+11-1-1998,Retail sales and food services excl motor vehicle and parts,188435,N
+12-1-1998,Retail sales and food services excl motor vehicle and parts,234123,N
+1-1-1998,Retail sales and food services excl gasoline stations,192618,N
+2-1-1998,Retail sales and food services excl gasoline stations,189800,N
+3-1-1998,Retail sales and food services excl gasoline stations,214955,N
+4-1-1998,Retail sales and food services excl gasoline stations,218816,N
+5-1-1998,Retail sales and food services excl gasoline stations,228247,N
+6-1-1998,Retail sales and food services excl gasoline stations,227337,N
+7-1-1998,Retail sales and food services excl gasoline stations,224137,N
+8-1-1998,Retail sales and food services excl gasoline stations,223644,N
+9-1-1998,Retail sales and food services excl gasoline stations,215384,N
+10-1-1998,Retail sales and food services excl gasoline stations,227824,N
+11-1-1998,Retail sales and food services excl gasoline stations,225618,N
+12-1-1998,Retail sales and food services excl gasoline stations,272849,N
+1-1-1998,Retail sales and food services excl motor vehicle and parts and gasoline stations,142897,N
+2-1-1998,Retail sales and food services excl motor vehicle and parts and gasoline stations,139056,N
+3-1-1998,Retail sales and food services excl motor vehicle and parts and gasoline stations,155124,N
+4-1-1998,Retail sales and food services excl motor vehicle and parts and gasoline stations,158788,N
+5-1-1998,Retail sales and food services excl motor vehicle and parts and gasoline stations,166037,N
+6-1-1998,Retail sales and food services excl motor vehicle and parts and gasoline stations,162483,N
+7-1-1998,Retail sales and food services excl motor vehicle and parts and gasoline stations,164367,N
+8-1-1998,Retail sales and food services excl motor vehicle and parts and gasoline stations,165902,N
+9-1-1998,Retail sales and food services excl motor vehicle and parts and gasoline stations,158754,N
+10-1-1998,Retail sales and food services excl motor vehicle and parts and gasoline stations,168341,N
+11-1-1998,Retail sales and food services excl motor vehicle and parts and gasoline stations,173062,N
+12-1-1998,Retail sales and food services excl motor vehicle and parts and gasoline stations,218003,N
+1-1-1998,"Retail sales, total",187445,N
+2-1-1998,"Retail sales, total",183767,N
+3-1-1998,"Retail sales, total",207973,N
+4-1-1998,"Retail sales, total",212262,N
+5-1-1998,"Retail sales, total",221155,N
+6-1-1998,"Retail sales, total",220867,N
+7-1-1998,"Retail sales, total",217687,N
+8-1-1998,"Retail sales, total",216605,N
+9-1-1998,"Retail sales, total",208915,N
+10-1-1998,"Retail sales, total",220499,N
+11-1-1998,"Retail sales, total",218969,N
+12-1-1998,"Retail sales, total",265618,N
+1-1-1998,"Retail sales, total (excl. motor vehicle and parts dealers)",137724,N
+2-1-1998,"Retail sales, total (excl. motor vehicle and parts dealers)",133023,N
+3-1-1998,"Retail sales, total (excl. motor vehicle and parts dealers)",148142,N
+4-1-1998,"Retail sales, total (excl. motor vehicle and parts dealers)",152234,N
+5-1-1998,"Retail sales, total (excl. motor vehicle and parts dealers)",158945,N
+6-1-1998,"Retail sales, total (excl. motor vehicle and parts dealers)",156013,N
+7-1-1998,"Retail sales, total (excl. motor vehicle and parts dealers)",157917,N
+8-1-1998,"Retail sales, total (excl. motor vehicle and parts dealers)",158863,N
+9-1-1998,"Retail sales, total (excl. motor vehicle and parts dealers)",152285,N
+10-1-1998,"Retail sales, total (excl. motor vehicle and parts dealers)",161016,N
+11-1-1998,"Retail sales, total (excl. motor vehicle and parts dealers)",166413,N
+12-1-1998,"Retail sales, total (excl. motor vehicle and parts dealers)",210772,N
+1-1-1998,GAFO(1),50777,N
+2-1-1998,GAFO(1),50744,N
+3-1-1998,GAFO(1),56790,N
+4-1-1998,GAFO(1),58363,N
+5-1-1998,GAFO(1),61136,N
+6-1-1998,GAFO(1),59553,N
+7-1-1998,GAFO(1),59602,N
+8-1-1998,GAFO(1),63575,N
+9-1-1998,GAFO(1),58678,N
+10-1-1998,GAFO(1),62784,N
+11-1-1998,GAFO(1),71608,N
+12-1-1998,GAFO(1),104326,N
+1-1-1997,"Retail and food services sales, total",200389,N
+2-1-1997,"Retail and food services sales, total",197556,N
+3-1-1997,"Retail and food services sales, total",225133,N
+4-1-1997,"Retail and food services sales, total",220329,N
+5-1-1997,"Retail and food services sales, total",234190,N
+6-1-1997,"Retail and food services sales, total",227365,N
+7-1-1997,"Retail and food services sales, total",231521,N
+8-1-1997,"Retail and food services sales, total",235252,N
+9-1-1997,"Retail and food services sales, total",222807,N
+10-1-1997,"Retail and food services sales, total",232251,N
+11-1-1997,"Retail and food services sales, total",228284,N
+12-1-1997,"Retail and food services sales, total",271054,N
+1-1-1997,Retail sales and food services excl motor vehicle and parts,151994,N
+2-1-1997,Retail sales and food services excl motor vehicle and parts,147430,N
+3-1-1997,Retail sales and food services excl motor vehicle and parts,167468,N
+4-1-1997,Retail sales and food services excl motor vehicle and parts,164024,N
+5-1-1997,Retail sales and food services excl motor vehicle and parts,176251,N
+6-1-1997,Retail sales and food services excl motor vehicle and parts,169901,N
+7-1-1997,Retail sales and food services excl motor vehicle and parts,173049,N
+8-1-1997,Retail sales and food services excl motor vehicle and parts,177182,N
+9-1-1997,Retail sales and food services excl motor vehicle and parts,167947,N
+10-1-1997,Retail sales and food services excl motor vehicle and parts,176680,N
+11-1-1997,Retail sales and food services excl motor vehicle and parts,179711,N
+12-1-1997,Retail sales and food services excl motor vehicle and parts,220677,N
+1-1-1997,Retail sales and food services excl gasoline stations,184433,N
+2-1-1997,Retail sales and food services excl gasoline stations,182644,N
+3-1-1997,Retail sales and food services excl gasoline stations,208571,N
+4-1-1997,Retail sales and food services excl gasoline stations,203965,N
+5-1-1997,Retail sales and food services excl gasoline stations,216874,N
+6-1-1997,Retail sales and food services excl gasoline stations,210316,N
+7-1-1997,Retail sales and food services excl gasoline stations,214043,N
+8-1-1997,Retail sales and food services excl gasoline stations,217519,N
+9-1-1997,Retail sales and food services excl gasoline stations,206016,N
+10-1-1997,Retail sales and food services excl gasoline stations,215089,N
+11-1-1997,Retail sales and food services excl gasoline stations,212278,N
+12-1-1997,Retail sales and food services excl gasoline stations,254683,N
+1-1-1997,Retail sales and food services excl motor vehicle and parts and gasoline stations,136038,N
+2-1-1997,Retail sales and food services excl motor vehicle and parts and gasoline stations,132518,N
+3-1-1997,Retail sales and food services excl motor vehicle and parts and gasoline stations,150906,N
+4-1-1997,Retail sales and food services excl motor vehicle and parts and gasoline stations,147660,N
+5-1-1997,Retail sales and food services excl motor vehicle and parts and gasoline stations,158935,N
+6-1-1997,Retail sales and food services excl motor vehicle and parts and gasoline stations,152852,N
+7-1-1997,Retail sales and food services excl motor vehicle and parts and gasoline stations,155571,N
+8-1-1997,Retail sales and food services excl motor vehicle and parts and gasoline stations,159449,N
+9-1-1997,Retail sales and food services excl motor vehicle and parts and gasoline stations,151156,N
+10-1-1997,Retail sales and food services excl motor vehicle and parts and gasoline stations,159518,N
+11-1-1997,Retail sales and food services excl motor vehicle and parts and gasoline stations,163705,N
+12-1-1997,Retail sales and food services excl motor vehicle and parts and gasoline stations,204306,N
+1-1-1997,"Retail sales, total",181073,N
+2-1-1997,"Retail sales, total",178428,N
+3-1-1997,"Retail sales, total",203750,N
+4-1-1997,"Retail sales, total",199219,N
+5-1-1997,"Retail sales, total",211516,N
+6-1-1997,"Retail sales, total",205491,N
+7-1-1997,"Retail sales, total",208856,N
+8-1-1997,"Retail sales, total",211952,N
+9-1-1997,"Retail sales, total",201415,N
+10-1-1997,"Retail sales, total",210145,N
+11-1-1997,"Retail sales, total",207533,N
+12-1-1997,"Retail sales, total",249389,N
+1-1-1997,"Retail sales, total (excl. motor vehicle and parts dealers)",132678,N
+2-1-1997,"Retail sales, total (excl. motor vehicle and parts dealers)",128302,N
+3-1-1997,"Retail sales, total (excl. motor vehicle and parts dealers)",146085,N
+4-1-1997,"Retail sales, total (excl. motor vehicle and parts dealers)",142914,N
+5-1-1997,"Retail sales, total (excl. motor vehicle and parts dealers)",153577,N
+6-1-1997,"Retail sales, total (excl. motor vehicle and parts dealers)",148027,N
+7-1-1997,"Retail sales, total (excl. motor vehicle and parts dealers)",150384,N
+8-1-1997,"Retail sales, total (excl. motor vehicle and parts dealers)",153882,N
+9-1-1997,"Retail sales, total (excl. motor vehicle and parts dealers)",146555,N
+10-1-1997,"Retail sales, total (excl. motor vehicle and parts dealers)",154574,N
+11-1-1997,"Retail sales, total (excl. motor vehicle and parts dealers)",158960,N
+12-1-1997,"Retail sales, total (excl. motor vehicle and parts dealers)",199012,N
+1-1-1997,GAFO(1),47409,N
+2-1-1997,GAFO(1),47286,N
+3-1-1997,GAFO(1),55045,N
+4-1-1997,GAFO(1),52639,N
+5-1-1997,GAFO(1),57737,N
+6-1-1997,GAFO(1),55641,N
+7-1-1997,GAFO(1),55712,N
+8-1-1997,GAFO(1),60967,N
+9-1-1997,GAFO(1),55307,N
+10-1-1997,GAFO(1),59385,N
+11-1-1997,GAFO(1),67945,N
+12-1-1997,GAFO(1),98314,N
+1-1-1996,"Retail and food services sales, total",185019,N
+2-1-1996,"Retail and food services sales, total",192380,N
+3-1-1996,"Retail and food services sales, total",212110,N
+4-1-1996,"Retail and food services sales, total",211718,N
+5-1-1996,"Retail and food services sales, total",226936,N
+6-1-1996,"Retail and food services sales, total",217511,N
+7-1-1996,"Retail and food services sales, total",218111,N
+8-1-1996,"Retail and food services sales, total",226062,N
+9-1-1996,"Retail and food services sales, total",209250,N
+10-1-1996,"Retail and food services sales, total",222663,N
+11-1-1996,"Retail and food services sales, total",223953,N
+12-1-1996,"Retail and food services sales, total",258081,N
+1-1-1996,Retail sales and food services excl motor vehicle and parts,140160,N
+2-1-1996,Retail sales and food services excl motor vehicle and parts,142805,N
+3-1-1996,Retail sales and food services excl motor vehicle and parts,156474,N
+4-1-1996,Retail sales and food services excl motor vehicle and parts,157622,N
+5-1-1996,Retail sales and food services excl motor vehicle and parts,168786,N
+6-1-1996,Retail sales and food services excl motor vehicle and parts,162597,N
+7-1-1996,Retail sales and food services excl motor vehicle and parts,163040,N
+8-1-1996,Retail sales and food services excl motor vehicle and parts,170581,N
+9-1-1996,Retail sales and food services excl motor vehicle and parts,158129,N
+10-1-1996,Retail sales and food services excl motor vehicle and parts,168434,N
+11-1-1996,Retail sales and food services excl motor vehicle and parts,175816,N
+12-1-1996,Retail sales and food services excl motor vehicle and parts,211843,N
+1-1-1996,Retail sales and food services excl gasoline stations,170546,N
+2-1-1996,Retail sales and food services excl gasoline stations,178221,N
+3-1-1996,Retail sales and food services excl gasoline stations,196494,N
+4-1-1996,Retail sales and food services excl gasoline stations,195694,N
+5-1-1996,Retail sales and food services excl gasoline stations,209508,N
+6-1-1996,Retail sales and food services excl gasoline stations,200554,N
+7-1-1996,Retail sales and food services excl gasoline stations,201072,N
+8-1-1996,Retail sales and food services excl gasoline stations,208791,N
+9-1-1996,Retail sales and food services excl gasoline stations,193275,N
+10-1-1996,Retail sales and food services excl gasoline stations,205992,N
+11-1-1996,Retail sales and food services excl gasoline stations,207716,N
+12-1-1996,Retail sales and food services excl gasoline stations,241506,N
+1-1-1996,Retail sales and food services excl motor vehicle and parts and gasoline stations,125687,N
+2-1-1996,Retail sales and food services excl motor vehicle and parts and gasoline stations,128646,N
+3-1-1996,Retail sales and food services excl motor vehicle and parts and gasoline stations,140858,N
+4-1-1996,Retail sales and food services excl motor vehicle and parts and gasoline stations,141598,N
+5-1-1996,Retail sales and food services excl motor vehicle and parts and gasoline stations,151358,N
+6-1-1996,Retail sales and food services excl motor vehicle and parts and gasoline stations,145640,N
+7-1-1996,Retail sales and food services excl motor vehicle and parts and gasoline stations,146001,N
+8-1-1996,Retail sales and food services excl motor vehicle and parts and gasoline stations,153310,N
+9-1-1996,Retail sales and food services excl motor vehicle and parts and gasoline stations,142154,N
+10-1-1996,Retail sales and food services excl motor vehicle and parts and gasoline stations,151763,N
+11-1-1996,Retail sales and food services excl motor vehicle and parts and gasoline stations,159579,N
+12-1-1996,Retail sales and food services excl motor vehicle and parts and gasoline stations,195268,N
+1-1-1996,"Retail sales, total",167372,N
+2-1-1996,"Retail sales, total",173941,N
+3-1-1996,"Retail sales, total",191851,N
+4-1-1996,"Retail sales, total",191886,N
+5-1-1996,"Retail sales, total",205797,N
+6-1-1996,"Retail sales, total",196842,N
+7-1-1996,"Retail sales, total",197140,N
+8-1-1996,"Retail sales, total",204270,N
+9-1-1996,"Retail sales, total",189424,N
+10-1-1996,"Retail sales, total",201927,N
+11-1-1996,"Retail sales, total",203621,N
+12-1-1996,"Retail sales, total",237478,N
+1-1-1996,"Retail sales, total (excl. motor vehicle and parts dealers)",122513,N
+2-1-1996,"Retail sales, total (excl. motor vehicle and parts dealers)",124366,N
+3-1-1996,"Retail sales, total (excl. motor vehicle and parts dealers)",136215,N
+4-1-1996,"Retail sales, total (excl. motor vehicle and parts dealers)",137790,N
+5-1-1996,"Retail sales, total (excl. motor vehicle and parts dealers)",147647,N
+6-1-1996,"Retail sales, total (excl. motor vehicle and parts dealers)",141928,N
+7-1-1996,"Retail sales, total (excl. motor vehicle and parts dealers)",142069,N
+8-1-1996,"Retail sales, total (excl. motor vehicle and parts dealers)",148789,N
+9-1-1996,"Retail sales, total (excl. motor vehicle and parts dealers)",138303,N
+10-1-1996,"Retail sales, total (excl. motor vehicle and parts dealers)",147698,N
+11-1-1996,"Retail sales, total (excl. motor vehicle and parts dealers)",155484,N
+12-1-1996,"Retail sales, total (excl. motor vehicle and parts dealers)",191240,N
+1-1-1996,GAFO(1),43533,N
+2-1-1996,GAFO(1),45999,N
+3-1-1996,GAFO(1),51526,N
+4-1-1996,GAFO(1),51479,N
+5-1-1996,GAFO(1),55557,N
+6-1-1996,GAFO(1),53585,N
+7-1-1996,GAFO(1),52522,N
+8-1-1996,GAFO(1),58714,N
+9-1-1996,GAFO(1),53061,N
+10-1-1996,GAFO(1),56556,N
+11-1-1996,GAFO(1),65498,N
+12-1-1996,GAFO(1),94583,N
+1-1-1995,"Retail and food services sales, total",175344,N
+2-1-1995,"Retail and food services sales, total",172138,N
+3-1-1995,"Retail and food services sales, total",201279,N
+4-1-1995,"Retail and food services sales, total",196039,N
+5-1-1995,"Retail and food services sales, total",210478,N
+6-1-1995,"Retail and food services sales, total",211844,N
+7-1-1995,"Retail and food services sales, total",203411,N
+8-1-1995,"Retail and food services sales, total",214248,N
+9-1-1995,"Retail and food services sales, total",202122,N
+10-1-1995,"Retail and food services sales, total",204044,N
+11-1-1995,"Retail and food services sales, total",212190,N
+12-1-1995,"Retail and food services sales, total",247491,N
+1-1-1995,Retail sales and food services excl motor vehicle and parts,134789,N
+2-1-1995,Retail sales and food services excl motor vehicle and parts,130679,N
+3-1-1995,Retail sales and food services excl motor vehicle and parts,149748,N
+4-1-1995,Retail sales and food services excl motor vehicle and parts,148170,N
+5-1-1995,Retail sales and food services excl motor vehicle and parts,157703,N
+6-1-1995,Retail sales and food services excl motor vehicle and parts,156922,N
+7-1-1995,Retail sales and food services excl motor vehicle and parts,153443,N
+8-1-1995,Retail sales and food services excl motor vehicle and parts,160769,N
+9-1-1995,Retail sales and food services excl motor vehicle and parts,153295,N
+10-1-1995,Retail sales and food services excl motor vehicle and parts,155556,N
+11-1-1995,Retail sales and food services excl motor vehicle and parts,166150,N
+12-1-1995,Retail sales and food services excl motor vehicle and parts,203689,N
+1-1-1995,Retail sales and food services excl gasoline stations,161473,N
+2-1-1995,Retail sales and food services excl gasoline stations,158926,N
+3-1-1995,Retail sales and food services excl gasoline stations,186522,N
+4-1-1995,Retail sales and food services excl gasoline stations,181409,N
+5-1-1995,Retail sales and food services excl gasoline stations,194533,N
+6-1-1995,Retail sales and food services excl gasoline stations,195637,N
+7-1-1995,Retail sales and food services excl gasoline stations,187354,N
+8-1-1995,Retail sales and food services excl gasoline stations,198031,N
+9-1-1995,Retail sales and food services excl gasoline stations,186928,N
+10-1-1995,Retail sales and food services excl gasoline stations,188887,N
+11-1-1995,Retail sales and food services excl gasoline stations,197509,N
+12-1-1995,Retail sales and food services excl gasoline stations,232306,N
+1-1-1995,Retail sales and food services excl motor vehicle and parts and gasoline stations,120918,N
+2-1-1995,Retail sales and food services excl motor vehicle and parts and gasoline stations,117467,N
+3-1-1995,Retail sales and food services excl motor vehicle and parts and gasoline stations,134991,N
+4-1-1995,Retail sales and food services excl motor vehicle and parts and gasoline stations,133540,N
+5-1-1995,Retail sales and food services excl motor vehicle and parts and gasoline stations,141758,N
+6-1-1995,Retail sales and food services excl motor vehicle and parts and gasoline stations,140715,N
+7-1-1995,Retail sales and food services excl motor vehicle and parts and gasoline stations,137386,N
+8-1-1995,Retail sales and food services excl motor vehicle and parts and gasoline stations,144552,N
+9-1-1995,Retail sales and food services excl motor vehicle and parts and gasoline stations,138101,N
+10-1-1995,Retail sales and food services excl motor vehicle and parts and gasoline stations,140399,N
+11-1-1995,Retail sales and food services excl motor vehicle and parts and gasoline stations,151469,N
+12-1-1995,Retail sales and food services excl motor vehicle and parts and gasoline stations,188504,N
+1-1-1995,"Retail sales, total",158004,N
+2-1-1995,"Retail sales, total",155156,N
+3-1-1995,"Retail sales, total",181910,N
+4-1-1995,"Retail sales, total",176635,N
+5-1-1995,"Retail sales, total",190269,N
+6-1-1995,"Retail sales, total",191609,N
+7-1-1995,"Retail sales, total",182909,N
+8-1-1995,"Retail sales, total",193370,N
+9-1-1995,"Retail sales, total",182521,N
+10-1-1995,"Retail sales, total",184276,N
+11-1-1995,"Retail sales, total",193405,N
+12-1-1995,"Retail sales, total",227552,N
+1-1-1995,"Retail sales, total (excl. motor vehicle and parts dealers)",117449,N
+2-1-1995,"Retail sales, total (excl. motor vehicle and parts dealers)",113697,N
+3-1-1995,"Retail sales, total (excl. motor vehicle and parts dealers)",130379,N
+4-1-1995,"Retail sales, total (excl. motor vehicle and parts dealers)",128766,N
+5-1-1995,"Retail sales, total (excl. motor vehicle and parts dealers)",137494,N
+6-1-1995,"Retail sales, total (excl. motor vehicle and parts dealers)",136687,N
+7-1-1995,"Retail sales, total (excl. motor vehicle and parts dealers)",132941,N
+8-1-1995,"Retail sales, total (excl. motor vehicle and parts dealers)",139891,N
+9-1-1995,"Retail sales, total (excl. motor vehicle and parts dealers)",133694,N
+10-1-1995,"Retail sales, total (excl. motor vehicle and parts dealers)",135788,N
+11-1-1995,"Retail sales, total (excl. motor vehicle and parts dealers)",147365,N
+12-1-1995,"Retail sales, total (excl. motor vehicle and parts dealers)",183750,N
+1-1-1995,GAFO(1),42081,N
+2-1-1995,GAFO(1),41357,N
+3-1-1995,GAFO(1),48904,N
+4-1-1995,GAFO(1),48848,N
+5-1-1995,GAFO(1),51653,N
+6-1-1995,GAFO(1),51777,N
+7-1-1995,GAFO(1),50183,N
+8-1-1995,GAFO(1),54920,N
+9-1-1995,GAFO(1),52057,N
+10-1-1995,GAFO(1),52586,N
+11-1-1995,GAFO(1),63530,N
+12-1-1995,GAFO(1),92144,N
+1-1-1994,"Retail and food services sales, total",161349,N
+2-1-1994,"Retail and food services sales, total",162841,N
+3-1-1994,"Retail and food services sales, total",192319,N
+4-1-1994,"Retail and food services sales, total",189569,N
+5-1-1994,"Retail and food services sales, total",194927,N
+6-1-1994,"Retail and food services sales, total",197946,N
+7-1-1994,"Retail and food services sales, total",193355,N
+8-1-1994,"Retail and food services sales, total",202388,N
+9-1-1994,"Retail and food services sales, total",193954,N
+10-1-1994,"Retail and food services sales, total",197956,N
+11-1-1994,"Retail and food services sales, total",202520,N
+12-1-1994,"Retail and food services sales, total",241111,N
+1-1-1994,Retail sales and food services excl motor vehicle and parts,124850,N
+2-1-1994,Retail sales and food services excl motor vehicle and parts,123634,N
+3-1-1994,Retail sales and food services excl motor vehicle and parts,143525,N
+4-1-1994,Retail sales and food services excl motor vehicle and parts,141977,N
+5-1-1994,Retail sales and food services excl motor vehicle and parts,147862,N
+6-1-1994,Retail sales and food services excl motor vehicle and parts,148644,N
+7-1-1994,Retail sales and food services excl motor vehicle and parts,147625,N
+8-1-1994,Retail sales and food services excl motor vehicle and parts,154061,N
+9-1-1994,Retail sales and food services excl motor vehicle and parts,147603,N
+10-1-1994,Retail sales and food services excl motor vehicle and parts,151778,N
+11-1-1994,Retail sales and food services excl motor vehicle and parts,158908,N
+12-1-1994,Retail sales and food services excl motor vehicle and parts,198627,N
+1-1-1994,Retail sales and food services excl gasoline stations,148635,N
+2-1-1994,Retail sales and food services excl gasoline stations,150548,N
+3-1-1994,Retail sales and food services excl gasoline stations,178672,N
+4-1-1994,Retail sales and food services excl gasoline stations,175924,N
+5-1-1994,Retail sales and food services excl gasoline stations,180576,N
+6-1-1994,Retail sales and food services excl gasoline stations,183226,N
+7-1-1994,Retail sales and food services excl gasoline stations,178217,N
+8-1-1994,Retail sales and food services excl gasoline stations,186792,N
+9-1-1994,Retail sales and food services excl gasoline stations,179232,N
+10-1-1994,Retail sales and food services excl gasoline stations,183100,N
+11-1-1994,Retail sales and food services excl gasoline stations,187984,N
+12-1-1994,Retail sales and food services excl gasoline stations,226107,N
+1-1-1994,Retail sales and food services excl motor vehicle and parts and gasoline stations,112136,N
+2-1-1994,Retail sales and food services excl motor vehicle and parts and gasoline stations,111341,N
+3-1-1994,Retail sales and food services excl motor vehicle and parts and gasoline stations,129878,N
+4-1-1994,Retail sales and food services excl motor vehicle and parts and gasoline stations,128332,N
+5-1-1994,Retail sales and food services excl motor vehicle and parts and gasoline stations,133511,N
+6-1-1994,Retail sales and food services excl motor vehicle and parts and gasoline stations,133924,N
+7-1-1994,Retail sales and food services excl motor vehicle and parts and gasoline stations,132487,N
+8-1-1994,Retail sales and food services excl motor vehicle and parts and gasoline stations,138465,N
+9-1-1994,Retail sales and food services excl motor vehicle and parts and gasoline stations,132881,N
+10-1-1994,Retail sales and food services excl motor vehicle and parts and gasoline stations,136922,N
+11-1-1994,Retail sales and food services excl motor vehicle and parts and gasoline stations,144372,N
+12-1-1994,Retail sales and food services excl motor vehicle and parts and gasoline stations,183623,N
+1-1-1994,"Retail sales, total",145276,N
+2-1-1994,"Retail sales, total",146332,N
+3-1-1994,"Retail sales, total",173562,N
+4-1-1994,"Retail sales, total",170795,N
+5-1-1994,"Retail sales, total",175527,N
+6-1-1994,"Retail sales, total",178509,N
+7-1-1994,"Retail sales, total",173198,N
+8-1-1994,"Retail sales, total",182445,N
+9-1-1994,"Retail sales, total",175128,N
+10-1-1994,"Retail sales, total",178642,N
+11-1-1994,"Retail sales, total",184272,N
+12-1-1994,"Retail sales, total",221549,N
+1-1-1994,"Retail sales, total (excl. motor vehicle and parts dealers)",108777,N
+2-1-1994,"Retail sales, total (excl. motor vehicle and parts dealers)",107125,N
+3-1-1994,"Retail sales, total (excl. motor vehicle and parts dealers)",124768,N
+4-1-1994,"Retail sales, total (excl. motor vehicle and parts dealers)",123203,N
+5-1-1994,"Retail sales, total (excl. motor vehicle and parts dealers)",128462,N
+6-1-1994,"Retail sales, total (excl. motor vehicle and parts dealers)",129207,N
+7-1-1994,"Retail sales, total (excl. motor vehicle and parts dealers)",127468,N
+8-1-1994,"Retail sales, total (excl. motor vehicle and parts dealers)",134118,N
+9-1-1994,"Retail sales, total (excl. motor vehicle and parts dealers)",128777,N
+10-1-1994,"Retail sales, total (excl. motor vehicle and parts dealers)",132464,N
+11-1-1994,"Retail sales, total (excl. motor vehicle and parts dealers)",140660,N
+12-1-1994,"Retail sales, total (excl. motor vehicle and parts dealers)",179065,N
+1-1-1994,GAFO(1),38169,N
+2-1-1994,GAFO(1),38988,N
+3-1-1994,GAFO(1),46882,N
+4-1-1994,GAFO(1),46029,N
+5-1-1994,GAFO(1),47711,N
+6-1-1994,GAFO(1),48452,N
+7-1-1994,GAFO(1),47407,N
+8-1-1994,GAFO(1),52037,N
+9-1-1994,GAFO(1),48961,N
+10-1-1994,GAFO(1),51601,N
+11-1-1994,GAFO(1),60091,N
+12-1-1994,GAFO(1),90019,N
+1-1-1993,"Retail and food services sales, total",153221,N
+2-1-1993,"Retail and food services sales, total",150087,N
+3-1-1993,"Retail and food services sales, total",170439,N
+4-1-1993,"Retail and food services sales, total",176456,N
+5-1-1993,"Retail and food services sales, total",182231,N
+6-1-1993,"Retail and food services sales, total",181535,N
+7-1-1993,"Retail and food services sales, total",183682,N
+8-1-1993,"Retail and food services sales, total",183318,N
+9-1-1993,"Retail and food services sales, total",177406,N
+10-1-1993,"Retail and food services sales, total",182737,N
+11-1-1993,"Retail and food services sales, total",187443,N
+12-1-1993,"Retail and food services sales, total",224540,N
+1-1-1993,Retail sales and food services excl motor vehicle and parts,121021,N
+2-1-1993,Retail sales and food services excl motor vehicle and parts,117300,N
+3-1-1993,Retail sales and food services excl motor vehicle and parts,131181,N
+4-1-1993,Retail sales and food services excl motor vehicle and parts,135401,N
+5-1-1993,Retail sales and food services excl motor vehicle and parts,140841,N
+6-1-1993,Retail sales and food services excl motor vehicle and parts,138540,N
+7-1-1993,Retail sales and food services excl motor vehicle and parts,140704,N
+8-1-1993,Retail sales and food services excl motor vehicle and parts,141612,N
+9-1-1993,Retail sales and food services excl motor vehicle and parts,137132,N
+10-1-1993,Retail sales and food services excl motor vehicle and parts,142450,N
+11-1-1993,Retail sales and food services excl motor vehicle and parts,148461,N
+12-1-1993,Retail sales and food services excl motor vehicle and parts,185536,N
+1-1-1993,Retail sales and food services excl gasoline stations,140694,N
+2-1-1993,Retail sales and food services excl gasoline stations,138027,N
+3-1-1993,Retail sales and food services excl gasoline stations,157276,N
+4-1-1993,Retail sales and food services excl gasoline stations,163079,N
+5-1-1993,Retail sales and food services excl gasoline stations,168142,N
+6-1-1993,Retail sales and food services excl gasoline stations,167536,N
+7-1-1993,Retail sales and food services excl gasoline stations,169235,N
+8-1-1993,Retail sales and food services excl gasoline stations,169197,N
+9-1-1993,Retail sales and food services excl gasoline stations,164030,N
+10-1-1993,Retail sales and food services excl gasoline stations,168776,N
+11-1-1993,Retail sales and food services excl gasoline stations,173923,N
+12-1-1993,Retail sales and food services excl gasoline stations,210804,N
+1-1-1993,Retail sales and food services excl motor vehicle and parts and gasoline stations,108494,N
+2-1-1993,Retail sales and food services excl motor vehicle and parts and gasoline stations,105240,N
+3-1-1993,Retail sales and food services excl motor vehicle and parts and gasoline stations,118018,N
+4-1-1993,Retail sales and food services excl motor vehicle and parts and gasoline stations,122024,N
+5-1-1993,Retail sales and food services excl motor vehicle and parts and gasoline stations,126752,N
+6-1-1993,Retail sales and food services excl motor vehicle and parts and gasoline stations,124541,N
+7-1-1993,Retail sales and food services excl motor vehicle and parts and gasoline stations,126257,N
+8-1-1993,Retail sales and food services excl motor vehicle and parts and gasoline stations,127491,N
+9-1-1993,Retail sales and food services excl motor vehicle and parts and gasoline stations,123756,N
+10-1-1993,Retail sales and food services excl motor vehicle and parts and gasoline stations,128489,N
+11-1-1993,Retail sales and food services excl motor vehicle and parts and gasoline stations,134941,N
+12-1-1993,Retail sales and food services excl motor vehicle and parts and gasoline stations,171800,N
+1-1-1993,"Retail sales, total",137020,N
+2-1-1993,"Retail sales, total",134462,N
+3-1-1993,"Retail sales, total",153025,N
+4-1-1993,"Retail sales, total",158615,N
+5-1-1993,"Retail sales, total",163519,N
+6-1-1993,"Retail sales, total",162964,N
+7-1-1993,"Retail sales, total",164590,N
+8-1-1993,"Retail sales, total",163989,N
+9-1-1993,"Retail sales, total",159298,N
+10-1-1993,"Retail sales, total",163992,N
+11-1-1993,"Retail sales, total",169980,N
+12-1-1993,"Retail sales, total",206174,N
+1-1-1993,"Retail sales, total (excl. motor vehicle and parts dealers)",104820,N
+2-1-1993,"Retail sales, total (excl. motor vehicle and parts dealers)",101675,N
+3-1-1993,"Retail sales, total (excl. motor vehicle and parts dealers)",113767,N
+4-1-1993,"Retail sales, total (excl. motor vehicle and parts dealers)",117560,N
+5-1-1993,"Retail sales, total (excl. motor vehicle and parts dealers)",122129,N
+6-1-1993,"Retail sales, total (excl. motor vehicle and parts dealers)",119969,N
+7-1-1993,"Retail sales, total (excl. motor vehicle and parts dealers)",121612,N
+8-1-1993,"Retail sales, total (excl. motor vehicle and parts dealers)",122283,N
+9-1-1993,"Retail sales, total (excl. motor vehicle and parts dealers)",119024,N
+10-1-1993,"Retail sales, total (excl. motor vehicle and parts dealers)",123705,N
+11-1-1993,"Retail sales, total (excl. motor vehicle and parts dealers)",130998,N
+12-1-1993,"Retail sales, total (excl. motor vehicle and parts dealers)",167170,N
+1-1-1993,GAFO(1),36694,N
+2-1-1993,GAFO(1),35872,N
+3-1-1993,GAFO(1),41191,N
+4-1-1993,GAFO(1),43631,N
+5-1-1993,GAFO(1),45350,N
+6-1-1993,GAFO(1),44410,N
+7-1-1993,GAFO(1),44915,N
+8-1-1993,GAFO(1),47477,N
+9-1-1993,GAFO(1),45182,N
+10-1-1993,GAFO(1),47654,N
+11-1-1993,GAFO(1),55243,N
+12-1-1993,GAFO(1),83163,N
+1-1-1992,"Retail and food services sales, total",146376,N
+2-1-1992,"Retail and food services sales, total",147079,N
+3-1-1992,"Retail and food services sales, total",159336,N
+4-1-1992,"Retail and food services sales, total",163669,N
+5-1-1992,"Retail and food services sales, total",170068,N
+6-1-1992,"Retail and food services sales, total",168663,N
+7-1-1992,"Retail and food services sales, total",169890,N
+8-1-1992,"Retail and food services sales, total",170364,N
+9-1-1992,"Retail and food services sales, total",164617,N
+10-1-1992,"Retail and food services sales, total",173655,N
+11-1-1992,"Retail and food services sales, total",171547,N
+12-1-1992,"Retail and food services sales, total",208838,N
+1-1-1992,Retail sales and food services excl motor vehicle and parts,116565,N
+2-1-1992,Retail sales and food services excl motor vehicle and parts,115862,N
+3-1-1992,Retail sales and food services excl motor vehicle and parts,124200,N
+4-1-1992,Retail sales and food services excl motor vehicle and parts,127587,N
+5-1-1992,Retail sales and food services excl motor vehicle and parts,133608,N
+6-1-1992,Retail sales and food services excl motor vehicle and parts,130274,N
+7-1-1992,Retail sales and food services excl motor vehicle and parts,132076,N
+8-1-1992,Retail sales and food services excl motor vehicle and parts,134928,N
+9-1-1992,Retail sales and food services excl motor vehicle and parts,128734,N
+10-1-1992,Retail sales and food services excl motor vehicle and parts,136917,N
+11-1-1992,Retail sales and food services excl motor vehicle and parts,139187,N
+12-1-1992,Retail sales and food services excl motor vehicle and parts,175771,N
+1-1-1992,Retail sales and food services excl gasoline stations,134277,N
+2-1-1992,Retail sales and food services excl gasoline stations,135499,N
+3-1-1992,Retail sales and food services excl gasoline stations,147064,N
+4-1-1992,Retail sales and food services excl gasoline stations,151226,N
+5-1-1992,Retail sales and food services excl gasoline stations,156619,N
+6-1-1992,Retail sales and food services excl gasoline stations,155236,N
+7-1-1992,Retail sales and food services excl gasoline stations,156016,N
+8-1-1992,Retail sales and food services excl gasoline stations,156539,N
+9-1-1992,Retail sales and food services excl gasoline stations,151477,N
+10-1-1992,Retail sales and food services excl gasoline stations,159992,N
+11-1-1992,Retail sales and food services excl gasoline stations,158483,N
+12-1-1992,Retail sales and food services excl gasoline stations,195350,N
+1-1-1992,Retail sales and food services excl motor vehicle and parts and gasoline stations,104466,N
+2-1-1992,Retail sales and food services excl motor vehicle and parts and gasoline stations,104282,N
+3-1-1992,Retail sales and food services excl motor vehicle and parts and gasoline stations,111928,N
+4-1-1992,Retail sales and food services excl motor vehicle and parts and gasoline stations,115144,N
+5-1-1992,Retail sales and food services excl motor vehicle and parts and gasoline stations,120159,N
+6-1-1992,Retail sales and food services excl motor vehicle and parts and gasoline stations,116847,N
+7-1-1992,Retail sales and food services excl motor vehicle and parts and gasoline stations,118202,N
+8-1-1992,Retail sales and food services excl motor vehicle and parts and gasoline stations,121103,N
+9-1-1992,Retail sales and food services excl motor vehicle and parts and gasoline stations,115594,N
+10-1-1992,Retail sales and food services excl motor vehicle and parts and gasoline stations,123254,N
+11-1-1992,Retail sales and food services excl motor vehicle and parts and gasoline stations,126123,N
+12-1-1992,Retail sales and food services excl motor vehicle and parts and gasoline stations,162283,N
+1-1-1992,"Retail sales, total",130683,N
+2-1-1992,"Retail sales, total",131244,N
+3-1-1992,"Retail sales, total",142488,N
+4-1-1992,"Retail sales, total",147175,N
+5-1-1992,"Retail sales, total",152420,N
+6-1-1992,"Retail sales, total",151849,N
+7-1-1992,"Retail sales, total",152586,N
+8-1-1992,"Retail sales, total",152476,N
+9-1-1992,"Retail sales, total",148158,N
+10-1-1992,"Retail sales, total",155987,N
+11-1-1992,"Retail sales, total",154824,N
+12-1-1992,"Retail sales, total",191347,N
+1-1-1992,"Retail sales, total (excl. motor vehicle and parts dealers)",100872,N
+2-1-1992,"Retail sales, total (excl. motor vehicle and parts dealers)",100027,N
+3-1-1992,"Retail sales, total (excl. motor vehicle and parts dealers)",107352,N
+4-1-1992,"Retail sales, total (excl. motor vehicle and parts dealers)",111093,N
+5-1-1992,"Retail sales, total (excl. motor vehicle and parts dealers)",115960,N
+6-1-1992,"Retail sales, total (excl. motor vehicle and parts dealers)",113460,N
+7-1-1992,"Retail sales, total (excl. motor vehicle and parts dealers)",114772,N
+8-1-1992,"Retail sales, total (excl. motor vehicle and parts dealers)",117040,N
+9-1-1992,"Retail sales, total (excl. motor vehicle and parts dealers)",112275,N
+10-1-1992,"Retail sales, total (excl. motor vehicle and parts dealers)",119249,N
+11-1-1992,"Retail sales, total (excl. motor vehicle and parts dealers)",122464,N
+12-1-1992,"Retail sales, total (excl. motor vehicle and parts dealers)",158280,N
+1-1-1992,GAFO(1),33906,N
+2-1-1992,GAFO(1),35220,N
+3-1-1992,GAFO(1),38731,N
+4-1-1992,GAFO(1),40548,N
+5-1-1992,GAFO(1),42213,N
+6-1-1992,GAFO(1),40990,N
+7-1-1992,GAFO(1),40956,N
+8-1-1992,GAFO(1),44642,N
+9-1-1992,GAFO(1),41474,N
+10-1-1992,GAFO(1),44896,N
+11-1-1992,GAFO(1),51222,N
+12-1-1992,GAFO(1),78590,N

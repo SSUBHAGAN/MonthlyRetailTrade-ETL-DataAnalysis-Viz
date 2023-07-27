@@ -1,0 +1,55 @@
+"""DROP DATABASE IF EXISTS `mrts`;
+CREATE DATABASE IF NOT EXISTS `mrts`; 
+USE `mrts`;
+
+SET NAMES UTF8MB4;
+SET character_set_client = UTF8MB4;
+
+-- --------------------------------------
+--  TABLE YEARLY_TOTAL
+-- --------------------------------------
+
+CREATE TABLE IF NOT EXISTS `TOTAL`(
+	`Kind` 			varchar (150) NOT NULL,
+	`years` 			varchar(50) NULL,	
+	`Total` 			varchar(50) NULL ,
+	CONSTRAINT combined_sales UNIQUE(Total,Kind,years)) 
+ENGINE=InnoDB DEFAULT CHARSET=UTF8MB4 COLLATE=utf8mb4_0900_ai_ci;
+
+-- --------------------------------------
+--  TABLE REVENUE_ADJUSTED
+-- --------------------------------------
+
+CREATE TABLE IF NOT EXISTS `ADJUSTED`(
+	`NAICS_CODE` 		varchar (50),
+	`salesdate` 		date NOT NULL,
+	`Kind` 			varchar (150) NOT NULL,
+	`sales` 			varchar(50) NULL,	
+	`adjusted` 			varchar(10) NULL ,
+	CONSTRAINT Adj_sales UNIQUE(Kind,salesdate,sales)) 
+ENGINE=InnoDB DEFAULT CHARSET=UTF8MB4 COLLATE=utf8mb4_0900_ai_ci;
+
+-- --------------------------------------
+--  TABLE REVENUE_COMBINED
+-- --------------------------------------
+
+CREATE TABLE IF NOT EXISTS `COMBINED_CATEGORY`(
+	`salesdate` 		date NOT NULL,
+	`Kind` 			varchar (150) NOT NULL,
+	`sales` 			varchar(50) NULL,	
+	`adjusted` 			varchar(10) NULL ,
+	CONSTRAINT cc_sales UNIQUE(Kind,salesdate,sales)) 
+ENGINE=InnoDB DEFAULT CHARSET=UTF8MB4 COLLATE=utf8mb4_0900_ai_ci;
+
+-- --------------------------------------
+--  TABLE REVENUE_IND_CATEGORY
+-- --------------------------------------
+
+CREATE TABLE IF NOT EXISTS `IND_CATEGORY`(
+	`NAICS_CODE` 		varchar (50),
+	`salesdate` 		date NOT NULL,
+	`Kind` 			varchar (150) NOT NULL,
+	`sales` 			varchar(50) NULL,	
+	`adjusted` 			varchar(10) NULL ,
+	CONSTRAINT uc_sales UNIQUE(NAICS_CODE,Kind,salesdate,sales)) 
+ENGINE=InnoDB DEFAULT CHARSET=UTF8MB4 COLLATE=utf8mb4_0900_ai_ci;
